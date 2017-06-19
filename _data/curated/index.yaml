@@ -1,858 +1,4 @@
 ---
-- curated_id: 4d6aafc4fb36c8b989c9a3f88234cb8e
-  item_date: "2012-05-03 13:09:41"
-  title: Code less, make more with Cumula
-  url: http://cumula.org
-  domain: cumula.org
-  image: ""
-- curated_id: ba7def60616eef9e5b14aae68803fc9a
-  item_date: "2012-05-03 13:43:09"
-  title: Reinventing Government with Open Data Is No Joke
-  url: https://socrata.com/opendata/reinventing-government-with-open-data-is-no-joke/
-  domain: socrata.com
-  image: ""
-- curated_id: d101bea5522f8877a16e6677c2e0e7bd
-  item_date: "2012-05-05 11:46:25"
-  title: Google Plugin for Eclipse now provides richer tooling for Cloud SQL and Google
-    APIs
-  url: https://developers.googleblog.com/2012/05/google-plugin-for-eclipse-now-provides.html
-  domain: developers.googleblog.com
-  image: ""
-- curated_id: 899c3d5fe26ef8845c6ee88d1104e7fd
-  item_date: "2012-05-08 23:47:54"
-  title: Google and Oracle Enter Round Two of Heavyweight Legal Fight
-  url: http://www.techmeme.com/120508/p73
-  domain: www.techmeme.com
-  image: ""
-- curated_id: 5bae72a59ff4807cbdc199645d5b7d4b
-  item_date: "2012-05-10 13:56:15"
-  title: ""
-  url: https://www.scripted.com/dev/interactive-documentation/
-  domain: www.scripted.com
-  image: ""
-- curated_id: 3285549b0eb1cb2e536ca0b474dd5c10
-  item_date: "2012-05-30 11:27:05"
-  title: About.me API Enables Developers To Integrate Custom Apps
-  url: http://www.programmableweb.com/news/about.me-api-enables-developers-to-integrate-custom-apps/2012/05/30
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: d5c25bfe78f610532b6de60f81def84a
-  item_date: "2013-01-11 00:00:00"
-  title: |-
-    Weve just updated our GTmetrix for WordPress plugin to v0.4!
-    Added some new features and some tweaks/bug fixes.
-    http://t.co/3B8smf0i
-  url: https://gtmetrix.com/
-  domain: gtmetrix.com
-  image: ""
-- curated_id: a5e16404a799512719c06579689cbdbf
-  item_date: "2013-01-14 00:00:00"
-  title: Beanstalk integrates with? Everything. Thanks to Zapier.
-  url: http://blog.beanstalkapp.com/post/40525694793/beanstalk-integrates-with-everything-thanks-to
-  domain: blog.beanstalkapp.com
-  image: ""
-- curated_id: c5f1fc94dba29e4ed44ed35f70f7d85f
-  item_date: "2013-02-04 00:00:00"
-  title: Zapier ? integrate apps with drag and drop
-  url: https://www.xero.com/blog/2013/02/zapier-integrate-apps-with-drag-and-drop/
-  domain: www.xero.com
-  image: ""
-- curated_id: aab12ab4ef4b8585909ecb0f0084ad37
-  item_date: "2013-03-12 00:00:00"
-  title: WordPress Plugins for MailChimp
-  url: http://blog.mailchimp.com/wordpress-plugins-for-mailchimp/
-  domain: blog.mailchimp.com
-  image: ""
-- curated_id: 99baca3b5f1df78626b28836c1d0cdd8
-  item_date: "2013-04-16 00:00:00"
-  title: New GitHub Logo
-  url: https://github.com/blog/1472-new-github-logo
-  domain: github.com
-  image: ""
-- curated_id: 537ec76d8256789d35c8b36f1a043f25
-  item_date: "2013-04-16 00:00:00"
-  title: PagerDuty integrates with Salesforce Desk.com
-  url: https://www.pagerduty.com/blog/salesforce-desk-integration/
-  domain: www.pagerduty.com
-  image: ""
-- curated_id: 9aa91697757870e05010434bb0aede9c
-  item_date: "2013-04-16 00:00:00"
-  title: AppDynamics Integration for PagerDuty
-  url: https://www.pagerduty.com/blog/appdynamics-integration/
-  domain: www.pagerduty.com
-  image: ""
-- curated_id: 295d007a86c0fb568cca2772271b194f
-  item_date: "2013-04-18 00:00:00"
-  title: Facebook + StackMob = More Social Apps
-  url: https://blog.stackmob.com/2013/04/stackmob-named-facebook-technology-partner/
-  domain: blog.stackmob.com
-  image: ""
-- curated_id: f07426f1acbd727e549eb958277357e1
-  item_date: "2013-04-18 21:24:34"
-  title: 'A Rake Too Far: Optimal Platform Pricing Strategy'
-  url: http://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy/
-  domain: abovethecrowd.com
-  image: ""
-- curated_id: dfbe14c5b260bd9464d834bce75b2f7f
-  item_date: "2013-04-22 00:00:00"
-  title: Rackspace Cloud Monitoring Now Integrates with PagerDuty
-  url: https://www.pagerduty.com/blog/rackspace-cloud-monitoring-integration/
-  domain: www.pagerduty.com
-  image: ""
-- curated_id: 3f2cd8c0d597db79e86349d0e0aaf3d8
-  item_date: "2013-04-24 00:00:00"
-  title: Spiceworks integrates with Dropbox
-  url: https://community.spiceworks.com/blogs/spiceworks/1590-spiceworks-integrates-with-dropbox
-  domain: community.spiceworks.com
-  image: ""
-- curated_id: bedcfa145219dd7aeb4c1ea80adff502
-  item_date: "2013-04-27 00:00:00"
-  title: Integrate Desk.com with Banckle Chat and Create Support Tickets
-  url: http://banckle.com/blog/integrate-desk-com-with-banckle-chat-and-create-support-tickets.html
-  domain: banckle.com
-  image: ""
-- curated_id: d2e1184cfd46d4b04b0bef8344dfd556
-  item_date: "2013-05-01 00:00:00"
-  title: Force.com Performance Profiling Using the Developer Console
-  url: https://developer.salesforce.com/blogs/engineering/2013/05/force-com-performance-profiling-using-the-developer-console.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 2d1e02f38fc09f64896ffcaa1d3745e4
-  item_date: "2013-05-03 00:00:00"
-  title: A few ideas for protecting your company against vanishing cloud services
-  url: https://gigaom.com/2013/05/03/a-few-ideas-for-protecting-your-company-against-vanishing-cloud-services/
-  domain: gigaom.com
-  image: ""
-- curated_id: 41153e0f031d424ae8340d0edecf7b14
-  item_date: "2013-05-06 00:00:00"
-  title: Repository Search on all Repositories
-  url: https://github.com/blog/1492-repository-search-on-all-repositories
-  domain: github.com
-  image: ""
-- curated_id: 395308350d9621fe31cf2da6da337778
-  item_date: "2013-05-06 00:00:00"
-  title: File CRUD and repository statistics now available in the API
-  url: https://github.com/blog/1498-file-crud-and-repository-statistics-now-available-in-the-api
-  domain: github.com
-  image: ""
-- curated_id: 463234958b9764f41578980362918f96
-  item_date: "2013-05-08 00:00:00"
-  title: 'Extreme Salesforce Data: Distributed Application Partitioning with Force.com
-    Canvas and Heroku'
-  url: https://developer.salesforce.com/blogs/engineering/2013/05/extreme-salesforce-data-distributed-application-partitioning-with-force-com-canvas-and-heroku.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: ca29bd860190789fcd93cd52673c806f
-  item_date: "2013-05-15 00:00:00"
-  title: Salesforce Platform ELEVATE Workshop is Coming to Washington DC
-  url: https://developer.salesforce.com/blogs/developer-relations/2013/05/salesforce-platform-elevate-workshops-is-coming-to-washington-dc-2.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 98cf179a33f10c26c411e17c3535f594
-  item_date: "2013-05-21 00:00:00"
-  title: Simplify Getting Paid With Braintree
-  url: http://www.zoho.com/invoice/blog/simplify-getting-paid-with-braintree.html
-  domain: www.zoho.com
-  image: ""
-- curated_id: 6d330584fc4bd4dcec443949631d852e
-  item_date: "2013-05-22 00:00:00"
-  title: Automating Twilio Integration Tests with Test Credentials
-  url: https://www.twilio.com/blog/2013/05/automating-twilio-integration-tests-with-test-credentials.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 0ce2672b64d59e7edde6a8eaf210e119
-  item_date: "2013-05-23 00:00:00"
-  title: Tibco Gets on the Cloud Integration Bus
-  url: http://www.programmableweb.com/news/tibco-gets-cloud-integration-bus/2013/05/23
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: 2a5dd3ec255810f63e8390f02f1ed10b
-  item_date: "2013-05-27 00:00:00"
-  title: Freespee meets Google Analytics
-  url: http://blog.freespee.com/2013/05/27/freespee-meets-google-analytics/
-  domain: blog.freespee.com
-  image: ""
-- curated_id: 6b82895da7bcb35fc6d7fd3fc4dd1da5
-  item_date: "2013-05-28 00:00:00"
-  title: Librato Now Integrates with PagerDuty
-  url: https://www.pagerduty.com/blog/librato-pagerduty-integration/
-  domain: www.pagerduty.com
-  image: ""
-- curated_id: a3129cc7cee010807eb5f348748df9f8
-  item_date: "2013-05-28 00:00:00"
-  title: Integrate Banckle Chat on Google Sites
-  url: http://banckle.com/blog/integrate-banckle-chat-on-google-sites.html
-  domain: banckle.com
-  image: ""
-- curated_id: edc56aa3951a249a0ef5de24dda4efd8
-  item_date: "2013-05-30 00:00:00"
-  title: Building SAP mobile apps with Sencha Touch
-  url: https://www.sencha.com/blog/building-sap-mobile-apps-with-sencha-touch-2/
-  domain: www.sencha.com
-  image: ""
-- curated_id: e63679a8be81f1a627e9675bb3b1974c
-  item_date: "2013-05-30 00:00:00"
-  title: Heroku Platform API, Now Available in Public Beta
-  url: https://blog.heroku.com/heroku-platform-api-beta
-  domain: blog.heroku.com
-  image: ""
-- curated_id: fc288ce85d43da63fdf53178e4416255
-  item_date: "2013-05-31 00:00:00"
-  title: PDF Annotation, Word Annotation and Others in Joomla with GroupDocs Annotation
-    Plugin
-  url: http://www.groupdocs.com/blog/pdf-annotation-word-annotation-and-others-in-joomla-with-groupdocs-annotation-plugin
-  domain: www.groupdocs.com
-  image: ""
-- curated_id: 7405db3b5573dfc2b74f5a2c3c829ada
-  item_date: "2013-06-03 00:00:00"
-  title: Track Your Dwolla Spending On Mint.com
-  url: http://blog.dwolla.com/track-your-dwolla-spending-on-mint-com/
-  domain: blog.dwolla.com
-  image: ""
-- curated_id: cf4b3ba33144dd920652944668b9a026
-  item_date: "2013-06-03 00:00:00"
-  title: |-
-    music:
-
-    ATTN: Audiophiles!
-    You can now post SoundCloud sets to...
-  url: http://staff.tumblr.com/post/52072156926/music-attn-audiophiles-you-can-now-post
-  domain: staff.tumblr.com
-  image: ""
-- curated_id: dd7d0ac7b3ea790495779b88c20fd034
-  item_date: "2013-06-07 00:00:00"
-  title: Invoicera Integrates With Stripe For Instant Payments
-  url: http://www.invoicera.com/blog/integration-2/invoicera-integrates-with-stripe-for-instant-payments
-  domain: www.invoicera.com
-  image: ""
-- curated_id: f1c213c4f6a3e7ba40652523d5b4eda6
-  item_date: "2013-06-07 00:00:00"
-  title: 'Typicals: When You Don?t Have Customer Usage Data'
-  url: http://blog.genability.com/2013/06/typicals/
-  domain: blog.genability.com
-  image: ""
-- curated_id: f22e7f10d2d55c21bbece9f084aed9f1
-  item_date: "2013-06-07 00:00:00"
-  title: Outage Post-Mortem ? May 30, 2013
-  url: https://www.pagerduty.com/blog/outage-post-mortem-may-30-2013/
-  domain: www.pagerduty.com
-  image: ""
-- curated_id: 7a38fea56a62fa9ccf6024e4e46abd91
-  item_date: "2013-06-19 00:00:00"
-  title: New Data Import Wizard ? Now in Pilot
-  url: https://developer.salesforce.com/blogs/tech-pubs/2013/06/new-data-import-wizard-%e2%80%94-now-in-pilot.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: db08bfb95490d806cf62f282e6e35279
-  item_date: "2013-06-27 00:00:00"
-  title: Introducing Heroku Fork
-  url: https://blog.heroku.com/heroku-fork
-  domain: blog.heroku.com
-  image: ""
-- curated_id: 82cedd8a38534c3574ceb6d1dad4b287
-  item_date: "2013-07-01 00:00:00"
-  title: PagerDuty integration for JavaScript
-  url: https://www.pagerduty.com/blog/pagerduty-javascript-integration/
-  domain: www.pagerduty.com
-  image: ""
-- curated_id: d45854271813e130ebfc2ca6175204f1
-  item_date: "2013-07-01 00:00:00"
-  title: Transcoding and Live Streaming with Zencoder, S3 + CloudFront
-  url: http://blog.zencoder.com/2013/07/01/transcoding-and-live-streaming-with-zencoder-s3-cloudfront/
-  domain: blog.zencoder.com
-  image: ""
-- curated_id: 664c8688525314b116f62348281581b9
-  item_date: "2013-07-02 00:00:00"
-  title: New Escalation Policy API
-  url: https://www.pagerduty.com/blog/new-escalation-policy-api/
-  domain: www.pagerduty.com
-  image: ""
-- curated_id: c1e3043306248d883bf250ffb7002f9b
-  item_date: "2013-07-03 00:00:00"
-  title: 'In the News: StackMob Adds Keen.io, GeoLoqal  Carrot Inc. to Growing Mobile
-    Partner Ecosystem'
-  url: https://blog.stackmob.com/2013/07/in-the-news-stackmob-adds-keen-io-geoloqal-carrot-inc-to-growing-mobile-partner-ecosystem/
-  domain: blog.stackmob.com
-  image: ""
-- curated_id: c58b5539ef20a40bc4757016a2fd86e5
-  item_date: "2013-07-08 00:00:00"
-  title: Add-ons for Production Apps
-  url: https://blog.heroku.com/archives/2013/7/8/addons_production_apps
-  domain: blog.heroku.com
-  image: ""
-- curated_id: f4197db32432ad1fc2ac56e15215c3db
-  item_date: "2013-07-10 00:00:00"
-  title: Gumroad ? Dropbox
-  url: http://blog.gumroad.com/post/55116730166/gumroad-dropbox
-  domain: blog.gumroad.com
-  image: ""
-- curated_id: 7b72db303e9a4efd56357ad3ca090225
-  item_date: "2013-07-10 00:00:00"
-  title: 'Heroku Labs: Managing App Deployment with Pipelines'
-  url: https://blog.heroku.com/heroku-pipelines-beta
-  domain: blog.heroku.com
-  image: ""
-- curated_id: e4dd3a645b36b75cae678eb8dacf941b
-  item_date: "2013-07-11 00:00:00"
-  title: 'Video and Slides: Running Production Apps on Heroku'
-  url: https://blog.heroku.com/running-production-apps-on-heroku
-  domain: blog.heroku.com
-  image: ""
-- curated_id: 2e07135ca6781654a420580106dec12e
-  item_date: "2013-07-12 00:00:00"
-  title: MongoHQ Integration
-  url: https://www.pagerduty.com/blog/mongo-hq-integration/
-  domain: www.pagerduty.com
-  image: ""
-- curated_id: 7149f132987241169f7b54941dbfbc61
-  item_date: "2013-07-30 00:00:00"
-  title: 'New PagerDuty Integrations: Apica and Stackdriver'
-  url: https://www.pagerduty.com/blog/pagerduty-integrations-apica-stackdriver/
-  domain: www.pagerduty.com
-  image: ""
-- curated_id: 9189780b225ffacff0cc4ca6c76e3a05
-  item_date: "2013-07-31 00:00:00"
-  title: A Tour of Dashboard
-  url: https://blog.heroku.com/archives/2013/7/31/heroku-dashboard-tour
-  domain: blog.heroku.com
-  image: ""
-- curated_id: 5248fe424cd0516cdc52e74b668068e7
-  item_date: "2013-08-06 00:00:00"
-  title: Improving Heroku Postgres with Support Data
-  url: https://blog.heroku.com/heroku-postgres-support-data
-  domain: blog.heroku.com
-  image: ""
-- curated_id: 4f99e68200a5d293fb5af76fa895a1be
-  item_date: "2013-08-07 00:00:00"
-  title: How We Use Heroku Postgres Dataclips to Drive Our Business
-  url: https://blog.heroku.com/how-we-use-heroku-postgres-dataclips
-  domain: blog.heroku.com
-  image: ""
-- curated_id: 300f00d0a78507caac5a9f8c2fe34d70
-  item_date: "2013-08-13 00:00:00"
-  title: cisimple joins appurify
-  url: http://blog.cisimple.com/2013/08/14/cisimple-joins-appurify/
-  domain: blog.cisimple.com
-  image: ""
-- curated_id: 7c1369e4ee97b4fd5d17a348aab726cb
-  item_date: "2013-08-14 00:00:00"
-  title: StatusPage Add-On in Public Beta
-  url: https://blog.heroku.com/statuspage-addon-in-public-beta
-  domain: blog.heroku.com
-  image: ""
-- curated_id: bea5da578cd84d1c7eb10cf7cf624d76
-  item_date: "2013-08-15 00:00:00"
-  title: Trello Integration Added To Flowdock
-  url: http://blog.flowdock.com/2013/08/16/trello-integration-added-to-flowdock/
-  domain: blog.flowdock.com
-  image: ""
-- curated_id: e3fbeeab66d53caa570b95443e827ae5
-  item_date: "2013-08-19 00:00:00"
-  title: SolarWinds Now Integrates with PagerDuty
-  url: https://www.pagerduty.com/blog/solarwinds-pagerduty-integration/
-  domain: www.pagerduty.com
-  image: ""
-- curated_id: 30be62fb3d958a543572cb4ab867580f
-  item_date: "2013-08-21 00:00:00"
-  title: Zendesk Integration with PagerDuty
-  url: https://www.pagerduty.com/blog/zendesk-integration-pagerduty/
-  domain: www.pagerduty.com
-  image: ""
-- curated_id: e410cbeb2e6464c313dc4b74f72936a3
-  item_date: "2013-09-04 00:00:00"
-  title: Learn More About Our Lanyrd Integration
-  url: https://www.eventbrite.com/blog/learn-more-about-our-lanyrd-integration/
-  domain: www.eventbrite.com
-  image: ""
-- curated_id: f821806b0f655c8a58a56280b9913cd0
-  item_date: "2013-09-05 00:00:00"
-  title: 'Sencha and Backend REST Services: How Modus Create Connects an App to DreamFactory'
-  url: https://www.sencha.com/blog/sencha-and-backend-rest-services-how-modus-create-connects-an-app-to-dreamf/
-  domain: www.sencha.com
-  image: ""
-- curated_id: a0c0864073957a5ea2a3a2c583220741
-  item_date: "2013-09-06 11:34:14"
-  title: Salesforce Unveils File To Sync Docs Across Box, SharePoint, And More
-  url: http://thenextweb.com/insider/2013/09/05/salesforce-unveils-files-a-new-way-to-map-files-across-services-like-dropbox-box-and-sharepoint/
-  domain: thenextweb.com
-  image: ""
-- curated_id: edd2ba539827594dd95a6b6499616806
-  item_date: "2013-09-12 00:00:00"
-  title: How to Attach Evernote notes to Salesforce contacts ? Step By Step
-  url: http://blog.cloudwork.com/how-to-attach-evernote-notes-to-salesforce-contacts-step-by-step/
-  domain: blog.cloudwork.com
-  image: ""
-- curated_id: 209ca39fe21d1eb912da894ef925f77f
-  item_date: "2013-09-16 00:00:00"
-  title: No-Hassle Javascript Database
-  url: http://blog.loggr.net/post/61404850710/no-hassle-javascript-database#_=_
-  domain: blog.loggr.net
-  image: ""
-- curated_id: 1ef26f04c9f5211f8a8bd54259690282
-  item_date: "2013-09-19 00:00:00"
-  title: PagerDuty?s New Mobile App, Now Accepting Beta Testers
-  url: https://www.pagerduty.com/blog/mobile-app-overhaul/
-  domain: www.pagerduty.com
-  image: ""
-- curated_id: cf99b61d2915919925ecf5546f76980f
-  item_date: "2013-10-01 00:00:00"
-  title: API Versions and the Salesforce Metadata API
-  url: https://developer.salesforce.com/blogs/developer-relations/2013/10/api-versions-and-the-salesforce-metadata-api.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 54a18f6e66a29253d89a85a393f27b6b
-  item_date: "2013-10-08 00:00:00"
-  title: 'WebSockets Now in Public Beta '
-  url: https://blog.heroku.com/archives/2013/10/8/websockets-public-beta
-  domain: blog.heroku.com
-  image: ""
-- curated_id: 2ab1dcd528e6af35095660bb3b78a34f
-  item_date: "2013-10-09 00:00:00"
-  title: Sync PagerDuty and Over 242 Apps with Zapier
-  url: https://www.pagerduty.com/blog/integrate-pagerduty-with-zapier/
-  domain: www.pagerduty.com
-  image: ""
-- curated_id: 70e96768b8e5fc4d265c80c88da683f5
-  item_date: "2013-10-14 00:00:00"
-  title: App.net and HootSuite Integration
-  url: http://blog.app.net/2013/10/14/app-net-and-hootsuite-integration/
-  domain: blog.app.net
-  image: ""
-- curated_id: bda55c78f7a1c88b6aa7e8151cc4261d
-  item_date: "2013-10-15 00:00:00"
-  title: New Salesforce.com Data Verification Applications from StrikeIron
-  url: http://blogs.informatica.com/tag/data-as-a-service/
-  domain: blogs.informatica.com
-  image: ""
-- curated_id: e98d8b424c76eea420ef997592ddd813
-  item_date: "2013-10-16 00:00:00"
-  title: Rollbar Now Integrates with PagerDuty
-  url: https://www.pagerduty.com/blog/rollbar-now-integrates-with-pagerduty/
-  domain: www.pagerduty.com
-  image: ""
-- curated_id: b9707cf717d99d48450cc2ce60bb8ebf
-  item_date: "2013-10-18 00:00:00"
-  title: AWS CloudWatch now Integrates with PagerDuty
-  url: https://www.pagerduty.com/blog/aws-cloudwatch-now-integrates-with-pagerduty/
-  domain: www.pagerduty.com
-  image: ""
-- curated_id: 4c9854107fbb54d230dcab5d32320893
-  item_date: "2013-10-21 00:00:00"
-  title: How Branch Uses Heroku
-  url: https://blog.heroku.com/how-branch-uses-heroku
-  domain: blog.heroku.com
-  image: ""
-- curated_id: 7ed2ba301a80a3fb3c6b1215a7f09e22
-  item_date: "2013-10-21 00:00:00"
-  title: MailChimp for Salesforce
-  url: http://blog.mailchimp.com/mailchimp-for-salesforce/
-  domain: blog.mailchimp.com
-  image: ""
-- curated_id: 0bf4be052c7c27de584462f7fdb66927
-  item_date: "2013-10-29 00:00:00"
-  title: Getting Started with Codiqa and StackMob
-  url: https://blog.stackmob.com/2013/10/getting-started-with-codiqa-and-stackmob/
-  domain: blog.stackmob.com
-  image: ""
-- curated_id: 672e2697949a27a7b24dda39b99b7042
-  item_date: "2013-10-29 00:00:00"
-  title: Kinvey and the Mobile Evolution
-  url: https://www.kinvey.com/blog/3370/kinvey-and-the-mobile-evolution
-  domain: www.kinvey.com
-  image: ""
-- curated_id: 02743c4aa045a0417423c7eb822b3132
-  item_date: "2013-10-30 00:00:00"
-  title: Stretch Your Apps with Flexible Salesforce API Limits ? Now in Pilot
-  url: https://developer.salesforce.com/blogs/tech-pubs/2013/10/stretch-your-apps-with-flexible-salesforce-api-limits-now-in-pilot.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: b52440520868e3fecc16659c4e648350
-  item_date: "2013-10-30 00:00:00"
-  title: How to integrate Mashape APIs with Parse as Cloud Modules @ParseIt
-  url: http://blog.mashape.com/mashape-updates-api-issues-terms-embed-button/
-  domain: blog.mashape.com
-  image: ""
-- curated_id: 7bfcfb61c92afb1bc79d1fe4b57faa56
-  item_date: "2013-11-11 00:00:00"
-  title: Blueprint For An On-Call Scheduling System
-  url: https://www.pagerduty.com/blog/on-call-schedule-best-practice-3/
-  domain: www.pagerduty.com
-  image: ""
-- curated_id: 3e72dfd038ac80750d4a354f425e3a55
-  item_date: "2013-11-12 00:00:00"
-  title: Uploading Photos to Chatter Files with HTML5
-  url: https://developer.salesforce.com/blogs/developer-relations/2013/11/uploading-photos-to-chatter-files-with-html5.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 97e043b5375fef844cdbc8792be5ed8c
-  item_date: "2013-11-13 00:00:00"
-  title: OAuth as Single Sign On
-  url: https://blog.heroku.com/oauth-sso
-  domain: blog.heroku.com
-  image: ""
-- curated_id: 9582fb47b9aa31a9f215ad28fcccc659
-  item_date: "2013-11-13 00:00:00"
-  title: Shutting Down Our Google Checkout Integration
-  url: https://www.eventbrite.com/blog/shutting-down-our-google-checkout-integration/
-  domain: www.eventbrite.com
-  image: ""
-- curated_id: 0ab5c48a685f0c236656fd4e4384220e
-  item_date: "2013-11-13 00:00:00"
-  title: 'Loggly and AWS CloudTrail: A Simple Way to Operate Smarter'
-  url: https://www.loggly.com/blog/loggly-aws-cloudtrail-simple-way-operate-smarter/
-  domain: www.loggly.com
-  image: ""
-- curated_id: aab3f7a12b0f4d436d7e2d0cc516c827
-  item_date: "2013-11-21 00:00:00"
-  title: 'New: Automatic Backups To Dropbox'
-  url: http://blog.appfigures.com/new-automatic-backups-to-dropbox/
-  domain: blog.appfigures.com
-  image: ""
-- curated_id: ac2d7deece631c5bbaeb81834af5b9d4
-  item_date: "2013-11-26 00:00:00"
-  title: Viralheat Adds Tumblr Integration
-  url: https://www.viralheat.com/blog/2013/11/26/viralheat-adds-tumblr-integration/
-  domain: www.viralheat.com
-  image: ""
-- curated_id: b0ea375af98acdc986440ca89162715b
-  item_date: "2013-12-03 00:00:00"
-  title: Message Queues, Background Processing and the End of the Monolithic App
-  url: https://blog.heroku.com/end_monolithic_app
-  domain: blog.heroku.com
-  image: ""
-- curated_id: 83e0d14646e95a92c185281d8d2d9dbd
-  item_date: "2013-12-09 00:00:00"
-  title: Using Zencoder on the Google Cloud Platform
-  url: https://blog.brightcove.com/en/2013/12/using-zencoder-google-cloud-platform
-  domain: blog.brightcove.com
-  image: ""
-- curated_id: 1aa9be7151e95a0632ad4c2d676e6e71
-  item_date: "2013-12-13 00:00:00"
-  title: Getting Started on Salesforce1 Platform with an ?Hour of Code?
-  url: https://developer.salesforce.com/blogs/developer-relations/2013/12/getting-started-with-salesforce1-platform.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: bd054abf78e68ecc35f7f0b2d2a7d42a
-  item_date: "2013-12-17 00:00:00"
-  title: Developer Discussion Boards Freeze
-  url: https://developer.salesforce.com/blogs/developer-relations/2013/12/developer-discussion-boards-freeze.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 419cb4109d26b937a03b8f5263868714
-  item_date: "2013-12-19 00:00:00"
-  title: How Does PagerDuty Use PagerDuty?
-  url: https://www.pagerduty.com/blog/how-does-pagerduty-use-pagerduty/
-  domain: www.pagerduty.com
-  image: ""
-- curated_id: 659c8693890af4dfd61e869b7d2db73f
-  item_date: "2013-12-19 00:00:00"
-  title: The Echo Nest Powers Streaming Radio for Xbox Music on Xbox One, Web, Smartphones,
-    Tablets
-  url: http://blog.echonest.com/post/70487337667/the-echo-nest-powers-streaming-radio-for-xbox#_=_
-  domain: blog.echonest.com
-  image: ""
-- curated_id: 151ae90830ed745d02f75d9673c492cf
-  item_date: "2014-01-09 00:00:00"
-  title: Auto-generating a Go API client for Heroku
-  url: https://blog.heroku.com/auto_generating_a_go_api_client_for_heroku
-  domain: blog.heroku.com
-  image: ""
-- curated_id: cca5d67676c2825522d83b82ccf6e020
-  item_date: "2014-01-27 00:00:00"
-  title: The Extended Salesforce Community on IRC and Stack Exchange
-  url: https://developer.salesforce.com/blogs/developer-relations/2014/01/the-extended-salesforce-community-on-irc-and-stack-exchange.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 28194f7dc1fc15fefd8bf22ed8df895e
-  item_date: "2014-01-30 00:00:00"
-  title: Build Charts with Historical Data and the Analytics API
-  url: https://developer.salesforce.com/blogs/developer-relations/2014/01/build-charts-with-history-tracking-data.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: e8ba477bc4169d2df6d696801749ee28
-  item_date: "2014-01-31 00:00:00"
-  title: 'Communities Containers: Options for Building Salesforce Communities'
-  url: https://developer.salesforce.com/blogs/developer-relations/2014/01/communities-containers-options-for-building-salesforce-communities.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: ed33221992b675e1fa70c46d4aad8d0d
-  item_date: "2014-02-28 00:00:00"
-  title: Pushing the Limits with Streaming API in Spring ?14
-  url: https://developer.salesforce.com/blogs/tech-pubs/2014/02/pushing-the-limits-with-streaming-api-in-spring-14.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: a71da1f5d4f294e36e2e3f47bb33ec2e
-  item_date: "2014-03-04 00:00:00"
-  title: Building a Native iOS Photo Sharing App On Salesforce1 mBaaS
-  url: https://developer.salesforce.com/blogs/developer-relations/2014/03/building-a-native-ios-photo-sharing-app-on-salesforce1-mbaas.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 5ff360088adee0514318257823f9842c
-  item_date: "2014-03-05 00:00:00"
-  title: LearnUpon Announces Integration with Two New Payment Gateways, Stripe Connect
-    and Authorize.net
-  url: https://www.learnupon.com/learnupon-announces-integration-with-two-new-payment-gateways-stripe-connect-and-authorize-net/
-  domain: www.learnupon.com
-  image: ""
-- curated_id: 041e5ae3b78f601ad0f88d3d586a6b6f
-  item_date: "2014-04-17 00:00:00"
-  title: APIs, Connectors and Integration Applications
-  url: http://blogs.mulesoft.com/dev/series-apis-connectors-integration-applications/
-  domain: blogs.mulesoft.com
-  image: ""
-- curated_id: 96e97749cc5e664f4344fc16c0592748
-  item_date: "2014-06-05 00:00:00"
-  title: How to integrate Nicereply with Salesforce
-  url: http://www.nicereply.com/blog/how-to-integrate-nicereply-with-salesforce/
-  domain: www.nicereply.com
-  image: ""
-- curated_id: f713ac7e95a4eecda682738097d45007
-  item_date: "2014-06-11 00:00:00"
-  title: Wearables and the Salesforce Wear Developer Pack ? Lessons Learned
-  url: https://developer.salesforce.com/blogs/developer-relations/2014/06/wearables-salesforce-wear-developer-pack.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 5cb122e2518e394ebc84cd49cd35b2e6
-  item_date: "2014-06-12 00:00:00"
-  title: Outage Post Mortem ? June 3rd  4th, 2014
-  url: https://www.pagerduty.com/blog/outage-post-mortem-june-3rd-4th-2014/
-  domain: www.pagerduty.com
-  image: ""
-- curated_id: 1d2101b613ae88dedc43e0d3d3740eed
-  item_date: "2014-06-13 00:00:00"
-  title: 'Internet Of Things in 10 Minutes: Hands-On with The Device Cloud'
-  url: https://developer.salesforce.com/blogs/developer-relations/2014/06/internet-of-things-in-10-minutes.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 46c9ee39ab164ca15ff0e87322efc136
-  item_date: "2014-06-18 00:00:00"
-  title: 'Speedy and Securely Signed Documents: A DocuSign and Okta Integration'
-  url: https://www.okta.com/blog/2014/06/speedy-and-securely-signed-documents-a-docusign-and-okta-integration/
-  domain: www.okta.com
-  image: ""
-- curated_id: c5ff8965a57f464f8f70d2471b9eff34
-  item_date: "2014-06-24 00:00:00"
-  title: Spreedly in pymnts.com
-  url: https://blog.spreedly.com/2014/06/24/spreedly-in-pymnts-com/
-  domain: blog.spreedly.com
-  image: ""
-- curated_id: b5468b1ce953926b5364eeb11f037e9e
-  item_date: "2014-06-25 00:00:00"
-  title: Transparent, Real-Time Incident Customer Communication with StatusPage.io
-  url: https://www.pagerduty.com/blog/customer-communication-statuspage-io/
-  domain: www.pagerduty.com
-  image: ""
-- curated_id: 8d0ded5ab9164c15e38bf6ae28112083
-  item_date: "2014-06-30 00:00:00"
-  title: Tooling and Analytics APIs?What They Are and When to Use Them
-  url: https://developer.salesforce.com/blogs/tech-pubs/2014/06/tooling-analytics-apis-use.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 82e927abf997285f8458d9ab7d121f7e
-  item_date: "2014-07-14 00:00:00"
-  title: Install Your Own Filepicker Developer App On Dropbox
-  url: http://blog.filepicker.io/post/91790833702
-  domain: blog.filepicker.io
-  image: ""
-- curated_id: 51e277eca923601aaaaa64ca113e955a
-  item_date: "2014-07-15 00:00:00"
-  title: The new PHP on Heroku now Generally Available
-  url: https://blog.heroku.com/archives/2014/7/15/the_new_php_on_heroku_now_generally_available
-  domain: blog.heroku.com
-  image: ""
-- curated_id: 03301f41fc8ebf7f2c6a79c5308a584b
-  item_date: "2014-07-15 00:00:00"
-  title: Merging Stripe and Zendesk Data for Business Insights
-  url: https://datahero.com/blog/2014/07/15/merging-stripe-zendesk-data-business-insights/
-  domain: datahero.com
-  image: ""
-- curated_id: 051039330def444713eed6d871650e36
-  item_date: "2014-07-17 00:00:00"
-  title: Were Now Available as Heroku Addon
-  url: https://transloadit.com/blog/2014/07/heroku-addon/
-  domain: transloadit.com
-  image: ""
-- curated_id: db211bb061b72f3cf67de2a71b672c7e
-  item_date: "2014-07-18 00:00:00"
-  title: Agendize provides powerful APIs at Constant Contact Innovation Jam
-  url: http://blog.agendize.com/2014/07/agendize-provides-powerful-apis-at-constant-contact-innovation-jam/
-  domain: blog.agendize.com
-  image: ""
-- curated_id: bd119c87ddd5627341fb09c7eaca2ee4
-  item_date: "2014-07-18 00:00:00"
-  title: How We Use Open Source at Salesforce.com ? Part 1
-  url: https://developer.salesforce.com/blogs/engineering/2014/07/open-source-at-salesforce-com.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 1193b64d7dcc037b20a8dfef3771d4f0
-  item_date: "2014-07-18 00:00:00"
-  title: An Introduction to Open Source at Salesforce.com
-  url: https://developer.salesforce.com/blogs/engineering/2014/07/introduction-open-source-salesforce-com.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: c5018b094bd70edad672843d5be8d1db
-  item_date: "2014-07-22 00:00:00"
-  title: Chartio Adds Twilio As A Data Source, Making Your Twilio Stats Beautiful
-    and Accessible
-  url: https://www.twilio.com/blog/2014/07/chartio-adds-twilio-as-a-data-source-twilio-stats-nt.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 26d1ac62415f8d3015662514f102b465
-  item_date: "2014-07-22 00:00:00"
-  title: How We Use Open Source at Salesforce.com ? Part 1
-  url: https://developer.salesforce.com/blogs/developer-relations/2014/07/use-open-source-salesforce-com-part-1.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: f72aaa04c9d9ecf28385d589aa5c1243
-  item_date: "2014-07-22 00:00:00"
-  title: How To Deliver A Winning  Pitch At Hackathons
-  url: https://developer.salesforce.com/blogs/developer-relations/2014/07/deliver-winning-pitch-hackathons.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 1a96333c62f3133dac5aad97978f06d3
-  item_date: "2014-07-23 00:00:00"
-  title: 'Open Source at Salesforce.com ? Part 2: How We Contribute'
-  url: https://developer.salesforce.com/blogs/engineering/2014/07/contribute-open-source-salesforce-com.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 1c1727e9a786adca35fda6c640c2fead
-  item_date: "2014-07-25 00:00:00"
-  title: Upcoming Webinar ? Integrating Salesforce and SAP
-  url: http://blogs.mulesoft.com/biz/saas/sfdc-sap-unlock-back-office/
-  domain: blogs.mulesoft.com
-  image: ""
-- curated_id: d822b8d913a8ef8051d6595cfb4560c9
-  item_date: "2014-07-25 00:00:00"
-  title: thedatabank Integrates Filepicker Into CRM
-  url: http://blog.filepicker.io/post/92847466727
-  domain: blog.filepicker.io
-  image: ""
-- curated_id: 3ae6d499794c2e8e6bb8f0d775e7da8d
-  item_date: "2014-07-29 00:00:00"
-  title: Salesforce.com?s New Open Source Releases ? Part 3
-  url: https://developer.salesforce.com/blogs/engineering/2014/07/salesforce-com-new-open-source-releases.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 83cf44aaacb9a652d4190d5f163dff9f
-  item_date: "2014-07-30 00:00:00"
-  title: 'Heroku Connect: Faster Synchronization and New Event Driven Architecture'
-  url: https://blog.heroku.com/archives/2014/7/30/Heroku%20Connect:%20Faster%20Synchronization%20and%20New%20Event%20Driven%20Architecture
-  domain: blog.heroku.com
-  image: ""
-- curated_id: b3727e01d693ac410139d4e27f0c5344
-  item_date: "2014-07-30 07:32:14"
-  title: Platform Philosophy ? Medium
-  url: https://medium.com/politics-of-apis/platform-philosophy-1a1cb1985ced
-  domain: medium.com
-  image: ""
-- curated_id: 64e360b9ae3d2519bd8c289005a0b88f
-  item_date: "2014-07-31 00:00:00"
-  title: ""
-  url: http://www.wufoo.com/2014/07/31/interactive-integrated-wufoo-payment-provider/
-  domain: www.wufoo.com
-  image: ""
-- curated_id: 324cd797d1465ef5d9c9f2f91add03bc
-  item_date: "2014-07-31 00:00:00"
-  title: Building a Single Page App with AngularJS and the Salesforce REST API
-  url: https://developer.salesforce.com/blogs/developer-relations/2014/07/building-single-page-app-angularjs-salesforce-rest-api.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 9cbc465bf2137929669c7f1eceda77b4
-  item_date: "2014-07-31 00:00:00"
-  title: You?ve got data. Now what?
-  url: https://www.pagerduty.com/blog/log-data/
-  domain: www.pagerduty.com
-  image: ""
-- curated_id: bf69e31013e5c982ddb63d5a8e30c2b8
-  item_date: "2014-07-31 00:00:00"
-  title: A Power Tool for Devops ? The MongoHQ CLI
-  url: https://www.compose.com/articles/a-power-tool-for-devops-the-mongohq-cli/
-  domain: www.compose.com
-  image: ""
-- curated_id: 59839bb96aca2803615437b84ece429b
-  item_date: "2014-08-01 00:00:00"
-  title: Salesforce Partner Brings Mission Critical Information to Your Fingertips
-  url: https://developer.salesforce.com/blogs/isv/2014/08/draft-mcim-fulcrum.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 7dda974f57dfb114e9890e771b418607
-  item_date: "2014-08-05 00:00:00"
-  title: New Heroku Dashboard and Metrics now in Beta
-  url: https://blog.heroku.com/new-dashboard-and-metrics-beta
-  domain: blog.heroku.com
-  image: ""
-- curated_id: ad6801f6065a024f726103ec0b9b7330
-  item_date: "2014-08-06 00:00:00"
-  title: Chatting with PagerDuty?s API
-  url: https://www.pagerduty.com/blog/pagerduty-api-integration/
-  domain: www.pagerduty.com
-  image: ""
-- curated_id: 2793618bcd750f2898b767e6a3cf6939
-  item_date: "2014-08-06 00:00:00"
-  title: 'Building an easier on-ramp: Introducing the Anypoint Templates Library'
-  url: http://blogs.mulesoft.com/dev/introducing-anypoint-templates-library/
-  domain: blogs.mulesoft.com
-  image: ""
-- curated_id: c67c4eefdc0e26856c744724a8f5f7ce
-  item_date: "2014-08-07 00:00:00"
-  title: Introducing Heroku Button
-  url: https://blog.heroku.com/heroku-button
-  domain: blog.heroku.com
-  image: ""
-- curated_id: 38c4130b5b4d72e453b1cc203eeba9bc
-  item_date: "2014-08-07 00:00:00"
-  title: Elasticsearch at Compose ? How it fits
-  url: https://www.compose.com/articles/elasticsearch-at-compose-how-it-fits/
-  domain: www.compose.com
-  image: ""
-- curated_id: dcd03e14271d4115adf868561faf6059
-  item_date: "2014-08-12 00:00:00"
-  title: The New Heroku Postgres Database Experience
-  url: https://blog.heroku.com/archives/2014/8/12/the_new_database_experience_with_heroku_postgres
-  domain: blog.heroku.com
-  image: ""
-- curated_id: 01f2f33ed58d0fb6588be907c578b691
-  item_date: "2014-08-12 00:00:00"
-  title: The Irony of Google?s HTTPS Mandate
-  url: http://blog.catchpoint.com/2014/08/12/google-https-mandate/
-  domain: blog.catchpoint.com
-  image: ""
-- curated_id: 493f24b568dbb2f7872048c8d337979f
-  item_date: "2014-08-15 00:00:00"
-  title: 'Integrating FoxyCart: CartStack'
-  url: http://www.foxycart.com/blog/integrating-foxycart-cartstack
-  domain: www.foxycart.com
-  image: ""
-- curated_id: 5271c2e2dffa2e2308d345f2866cd485
-  item_date: "2014-08-21 00:00:00"
-  title: Try the new Uber API on Heroku
-  url: https://blog.heroku.com/try_the_new_uber_api_on_heroku
-  domain: blog.heroku.com
-  image: ""
-- curated_id: 50818429e2b5c8aac5b8a8b8a93e5627
-  item_date: "2014-08-28 00:00:00"
-  title: Keeping Elasticsearch secure ? the Compose network
-  url: https://www.compose.com/articles/keeping-elasticsearch-secure-the-compose-network/
-  domain: www.compose.com
-  image: ""
-- curated_id: 37a250e09d2b1c08c6a6d33d55fe8cc9
-  item_date: "2014-09-25 00:00:00"
-  title: Two-factor Authentication Now Generally Available
-  url: https://blog.heroku.com/two-factor-authentication-ga
-  domain: blog.heroku.com
-  image: ""
-- curated_id: 6c9df75310385c30d09bb22cf6cffc28
-  item_date: "2014-09-25 00:00:00"
-  title: What Exactly is an API Platform? A Competitive Edge That?s What!
-  url: http://nordicapis.com/what-exactly-is-an-api-platform-competitive-edge/
-  domain: nordicapis.com
-  image: ""
-- curated_id: 49100e39a822000bcde323b6d2bc0357
-  item_date: "2014-11-05 07:58:13"
-  title: Integrations | Kato Articles
-  url: https://kato.im/articles/integrations/
-  domain: kato.im
-  image: ""
 - curated_id: 25dacd9fb2083eb85229b17bd5ae24d1
   item_date: "2015-02-17 00:00:00"
   title: Fail This Smart Breathalyzers Test And It Will Help You Get An Uber
@@ -865,17 +11,17 @@
   url: http://www.programmableweb.com/news/h2o-releases-python-api-its-machine-learning-solution/2015/02/17
   domain: www.programmableweb.com
   image: ""
-- curated_id: 3404d32aaee9f242b5a670543359ea90
-  item_date: "2015-02-18 00:00:00"
-  title: Stripe Payment Gateway Kit For Resellerclub (Miscellaneous)
-  url: https://codecanyon.net/item/stripe-payment-gateway-kit-for-resellerclub/10443198
-  domain: codecanyon.net
-  image: ""
 - curated_id: fe869df41efceab722eaa690f6c5df85
   item_date: "2015-02-18 00:00:00"
   title: CloudRail Extends API with Box.com Integration and Node.js SDK
   url: http://www.programmableweb.com/news/cloudrail-extends-api-box.com-integration-and-node.js-sdk/press-release/2015/02/18
   domain: www.programmableweb.com
+  image: ""
+- curated_id: 3404d32aaee9f242b5a670543359ea90
+  item_date: "2015-02-18 00:00:00"
+  title: Stripe Payment Gateway Kit For Resellerclub (Miscellaneous)
+  url: https://codecanyon.net/item/stripe-payment-gateway-kit-for-resellerclub/10443198
+  domain: codecanyon.net
   image: ""
 - curated_id: 110c5754d8e3c36636155ad9fc7dee44
   item_date: "2015-02-20 00:00:00"
@@ -883,23 +29,17 @@
   url: https://insights.newscred.com/article/newscred-announces-instagram-tumblr-youtube-integrations/1fc17767d2b80bcbcaf78f86c9b270af
   domain: insights.newscred.com
   image: ""
-- curated_id: 9958ad4ad9b8f0f3c9f38c7499a17b21
-  item_date: "2015-02-23 00:00:00"
-  title: YouTube API Getting Started .NET Code
-  url: http://www.codeproject.com/Articles/879530/YouTube-API-Getting-Started-NET-Code
-  domain: www.codeproject.com
-  image: ""
 - curated_id: d915f184b6a235d02fcc512a1c6466d9
   item_date: "2015-02-23 00:00:00"
   title: PayPal Advanced Payment Terminal (Shopping Carts)
   url: https://codecanyon.net/item/paypal-advanced-payment-terminal/10484035
   domain: codecanyon.net
   image: ""
-- curated_id: 3f60f4395600d2fb1c23a7f9214bf32c
-  item_date: "2015-02-24 00:00:00"
-  title: Get Web Automation off the Ground with the Helium API
-  url: http://willowtreeapps.com/blog/developers-blog_get-web-automation-off-the-ground-with-the-helium-api/
-  domain: willowtreeapps.com
+- curated_id: 9958ad4ad9b8f0f3c9f38c7499a17b21
+  item_date: "2015-02-23 00:00:00"
+  title: YouTube API Getting Started .NET Code
+  url: http://www.codeproject.com/Articles/879530/YouTube-API-Getting-Started-NET-Code
+  domain: www.codeproject.com
   image: ""
 - curated_id: 5b302c9363c76553dea2bdc1713f294b
   item_date: "2015-02-24 00:00:00"
@@ -907,17 +47,23 @@
   url: http://blog.gumroad.com/post/111969799023/dropbox#_=_
   domain: blog.gumroad.com
   image: ""
-- curated_id: 42764371e2044fd2f4c9df16cfc55512
-  item_date: "2015-02-26 00:00:00"
-  title: 'Data Transformations: How-Not-To Block API Integrations'
-  url: http://blog.cloud-elements.com/data-transformations-not-block-api-integrations
-  domain: blog.cloud-elements.com
+- curated_id: 3f60f4395600d2fb1c23a7f9214bf32c
+  item_date: "2015-02-24 00:00:00"
+  title: Get Web Automation off the Ground with the Helium API
+  url: http://willowtreeapps.com/blog/developers-blog_get-web-automation-off-the-ground-with-the-helium-api/
+  domain: willowtreeapps.com
   image: ""
 - curated_id: 46f23e10b1f7217e66d445a03fb0aacc
   item_date: "2015-02-26 00:00:00"
   title: 'Anypoint Exchange: Discover and Add Integration Best Practices'
   url: http://blogs.mulesoft.com/dev/anypoint-exchange-discover-and-add-integration-best-practices/
   domain: blogs.mulesoft.com
+  image: ""
+- curated_id: 42764371e2044fd2f4c9df16cfc55512
+  item_date: "2015-02-26 00:00:00"
+  title: 'Data Transformations: How-Not-To Block API Integrations'
+  url: http://blog.cloud-elements.com/data-transformations-not-block-api-integrations
+  domain: blog.cloud-elements.com
   image: ""
 - curated_id: 0f3bbcfc6a229351bab6745de6cb4492
   item_date: "2015-03-03 00:00:00"
@@ -943,17 +89,17 @@
   url: http://www.programmableweb.com/news/accounting-software-provider-uses-api-program-to-attract-150-add-solutions/elsewhere-web/2015/03/06-1
   domain: www.programmableweb.com
   image: ""
-- curated_id: 8a8fee9a5933d58cd1d6e0eb7e02e7e5
-  item_date: "2015-03-11 00:00:00"
-  title: Splunk and Operational Intelligence come to the G-Cloud
-  url: http://blogs.splunk.com/2015/03/11/gcloud2015/
-  domain: blogs.splunk.com
-  image: ""
 - curated_id: eb674a28822652fed90391daa880565f
   item_date: "2015-03-11 00:00:00"
   title: Barclays Payment Gateway Magento (Magento Extensions)
   url: https://codecanyon.net/item/barclays-payment-gateway-magento/10683341
   domain: codecanyon.net
+  image: ""
+- curated_id: 8a8fee9a5933d58cd1d6e0eb7e02e7e5
+  item_date: "2015-03-11 00:00:00"
+  title: Splunk and Operational Intelligence come to the G-Cloud
+  url: http://blogs.splunk.com/2015/03/11/gcloud2015/
+  domain: blogs.splunk.com
   image: ""
 - curated_id: 1d5a91dc2fc282b40e23b69ea8714b86
   item_date: "2015-03-11 10:34:31"
@@ -1009,18 +155,18 @@
   url: http://venturebeat.com/2015/05/05/peruse-launch/
   domain: venturebeat.com
   image: ""
+- curated_id: d7073896b016bbc5df0fa3522227e5b5
+  item_date: "2015-05-06 00:00:00"
+  title: Bring Dropbox to your Gmail account
+  url: https://blogs.dropbox.com/dropbox/2015/05/dropbox-gmail-extension/
+  domain: blogs.dropbox.com
+  image: ""
 - curated_id: 97b5866c1e3abc253ee098069dbd0461
   item_date: "2015-05-06 00:00:00"
   title: Dropbox for Gmail update makes it easier to send large files and save files
     directly
   url: http://thenextweb.com/insider/2015/05/06/dropbox-for-gmail-update-makes-it-easier-to-send-large-files-and-save-files-directly/
   domain: thenextweb.com
-  image: ""
-- curated_id: d7073896b016bbc5df0fa3522227e5b5
-  item_date: "2015-05-06 00:00:00"
-  title: Bring Dropbox to your Gmail account
-  url: https://blogs.dropbox.com/dropbox/2015/05/dropbox-gmail-extension/
-  domain: blogs.dropbox.com
   image: ""
 - curated_id: 290066b066c991d1852313d7ab734b21
   item_date: "2015-05-06 00:00:00"
@@ -1065,18 +211,18 @@
   url: https://www.filepicker.com/blog/product-updates/filepicker-adds-imgur-to-list-of-cloud-sources/
   domain: www.filepicker.com
   image: ""
-- curated_id: 1d950ba81cbca08b12c84527515bf719
-  item_date: "2015-05-21 00:00:00"
-  title: Salesforce updates community tools with Google Drive integration
-  url: http://www.zdnet.com/article/salesforce-updates-community-tools-with-google-drive-integration/#ftag=RSSbaffb68
-  domain: www.zdnet.com
-  image: ""
 - curated_id: 39c8cb996a426acf23e2718029f77c96
   item_date: "2015-05-21 00:00:00"
   title: 'Show Your Customers Some Email Marketing Love: Mailjet integration with
     the Salesforce API'
   url: http://cloud-elements.com/show-your-customers-some-email-marketing-love-mailjet-integration-with-the-salesforce-api/
   domain: cloud-elements.com
+  image: ""
+- curated_id: 1d950ba81cbca08b12c84527515bf719
+  item_date: "2015-05-21 00:00:00"
+  title: Salesforce updates community tools with Google Drive integration
+  url: http://www.zdnet.com/article/salesforce-updates-community-tools-with-google-drive-integration/#ftag=RSSbaffb68
+  domain: www.zdnet.com
   image: ""
 - curated_id: 0cfd948f70d50cb5785d6a455452a1cd
   item_date: "2015-05-27 00:00:00"
@@ -1217,18 +363,18 @@
   url: https://developer.intuit.com/hub/blog/2016/01/25/hello-intuit-developer-world
   domain: developer.intuit.com
   image: ""
+- curated_id: 5d54e0f93449bdac28967792033a0e4b
+  item_date: "2016-01-26 00:00:00"
+  title: 9 Lessons Learned from Building 60 Data Source Integrations
+  url: http://www.programmableweb.com/news/9-lessons-learned-building-60-data-source-integrations/analysis/2016/01/26
+  domain: www.programmableweb.com
+  image: ""
 - curated_id: 9cee8cc728dacb9927a0e54964c5504c
   item_date: "2016-01-26 00:00:00"
   title: Introducing Heroku Private Spaces ? Applying Network Access Controls to Your
     Salesforce Integration Apps
   url: https://developer.salesforce.com/blogs/developer-relations/2016/01/introducing-heroku-private-spaces-applying-network-access-controls-salesforce-integration-apps.html
   domain: developer.salesforce.com
-  image: ""
-- curated_id: 5d54e0f93449bdac28967792033a0e4b
-  item_date: "2016-01-26 00:00:00"
-  title: 9 Lessons Learned from Building 60 Data Source Integrations
-  url: http://www.programmableweb.com/news/9-lessons-learned-building-60-data-source-integrations/analysis/2016/01/26
-  domain: www.programmableweb.com
   image: ""
 - curated_id: e339a8bea887678580b411e3d5a2cdb2
   item_date: "2016-01-27 00:00:00"
@@ -1242,17 +388,17 @@
   url: http://netdispatcher.com/open-api-integration/
   domain: netdispatcher.com
   image: ""
-- curated_id: 405a7314062c5a99e3d6385d87fbbb1a
-  item_date: "2016-01-31 00:00:00"
-  title: 'Integrations 101: Automating Workflows with Zapier'
-  url: http://slackhq.com/post/138426158685/zapier#_=_
-  domain: slackhq.com
-  image: ""
 - curated_id: 5a03301fdb516754d4e757fd748cf77e
   item_date: "2016-01-31 00:00:00"
   title: Retrieve Information from Yahoo! APIs
   url: http://www.codeproject.com/Tips/1075581/Retrieve-Information-from-Yahoo-APIs
   domain: www.codeproject.com
+  image: ""
+- curated_id: 405a7314062c5a99e3d6385d87fbbb1a
+  item_date: "2016-01-31 00:00:00"
+  title: 'Integrations 101: Automating Workflows with Zapier'
+  url: http://slackhq.com/post/138426158685/zapier#_=_
+  domain: slackhq.com
   image: ""
 - curated_id: ed485fdd374cfab16d6e0a0d9d4bb4b5
   item_date: "2016-02-01 00:00:00"
@@ -1304,17 +450,17 @@
   url: http://blog.ouseful.info/2016/02/17/tagging-twitter-users-from-their-twitter-bios-using-opencalais-and-alchemy-api/
   domain: blog.ouseful.info
   image: ""
-- curated_id: 9dd074190672be31cfaf519e056d942e
-  item_date: "2016-02-19 00:00:00"
-  title: Youtube API V3 CMS PRO (Images and Media)
-  url: http://codecanyon.net/item/youtube-api-v3-cms-pro/14947199
-  domain: codecanyon.net
-  image: ""
 - curated_id: cbbaf74c301a434727a35b1c55400ff2
   item_date: "2016-02-19 00:00:00"
   title: Exploring the world on-the-go using Google Cloud Vision and Twilio
   url: http://www.blog.juliaferraioli.com/2016/02/exploring-world-using-vision-twilio.html
   domain: www.blog.juliaferraioli.com
+  image: ""
+- curated_id: 9dd074190672be31cfaf519e056d942e
+  item_date: "2016-02-19 00:00:00"
+  title: Youtube API V3 CMS PRO (Images and Media)
+  url: http://codecanyon.net/item/youtube-api-v3-cms-pro/14947199
+  domain: codecanyon.net
   image: ""
 - curated_id: 9fe406991cb7a7ce70c56d672b22bcf5
   item_date: "2016-02-24 00:00:00"
@@ -1334,6 +480,12 @@
   url: https://medium.com/slack-developer-blog/hosting-slack-integrations-79f3d4b04dd6
   domain: medium.com
   image: ""
+- curated_id: 86fc3d0abca28cd0b1accdb7d69e09ee
+  item_date: "2016-03-10 00:00:00"
+  title: 'Continuous Integration 101: How to Run JMeter With Jenkins'
+  url: https://dzone.com/articles/continuous-integration-101-how-to-run-jmeter-with
+  domain: dzone.com
+  image: ""
 - curated_id: c4134b961d6baa22babba5cdf6e613b8
   item_date: "2016-03-10 00:00:00"
   title: Is Continuous Localization Possible for Dev Teams?
@@ -1346,12 +498,6 @@
   url: https://developer.salesforce.com/blogs/developer-relations/2016/03/exploring-the-internals-of-odata-adapter-in-salesforce-connect.html
   domain: developer.salesforce.com
   image: ""
-- curated_id: 86fc3d0abca28cd0b1accdb7d69e09ee
-  item_date: "2016-03-10 00:00:00"
-  title: 'Continuous Integration 101: How to Run JMeter With Jenkins'
-  url: https://dzone.com/articles/continuous-integration-101-how-to-run-jmeter-with
-  domain: dzone.com
-  image: ""
 - curated_id: 31e109e5fb308ba9738d36497c183ed0
   item_date: "2016-03-11 00:00:00"
   title: Fix To No Access-Control-Allow-Origin header is present Or Working With Cross
@@ -1359,17 +505,17 @@
   url: http://www.codeproject.com/Articles/1084745/Fix-To-No-Access-Control-Allow-Origin-header-is-pr
   domain: www.codeproject.com
   image: ""
-- curated_id: 1dc597e5faa73695fc88f0e2c39229ed
-  item_date: "2016-03-16 00:00:00"
-  title: The Past, Present and Future of Enterprise Integration
-  url: http://www.infoq.com/news/2016/03/enterprise-integration
-  domain: www.infoq.com
-  image: ""
 - curated_id: 3e5ddfc1fb60b7ceaa872dadb9405e1a
   item_date: "2016-03-16 00:00:00"
   title: How to Integrate Your WordPress Site with Telegram
   url: http://www.wpbeginner.com/plugins/how-to-integrate-your-wordpress-site-with-telegram/
   domain: www.wpbeginner.com
+  image: ""
+- curated_id: 1dc597e5faa73695fc88f0e2c39229ed
+  item_date: "2016-03-16 00:00:00"
+  title: The Past, Present and Future of Enterprise Integration
+  url: http://www.infoq.com/news/2016/03/enterprise-integration
+  domain: www.infoq.com
   image: ""
 - curated_id: 5dae40e6abbddc39b571a4b98023bef8
   item_date: "2016-03-24 00:00:00"
@@ -1377,17 +523,17 @@
   url: https://www.hooked.io/
   domain: www.hooked.io
   image: ""
-- curated_id: cdb9f6f4a636c12e8cbda0cd7b500d87
-  item_date: "2016-03-27 00:00:00"
-  title: Rising.fm ? Music charts powered by SoundCloud
-  url: http://rising.fm/
-  domain: rising.fm
-  image: ""
 - curated_id: 829916e0d81c4c20cbb4c934a909110b
   item_date: "2016-03-27 00:00:00"
   title: Maximizing your Cobot / MailChimp Integration
   url: http://blog.cobot.me/post/141789641822/maximizing-your-cobot-mailchimp-integration#_=_
   domain: blog.cobot.me
+  image: ""
+- curated_id: cdb9f6f4a636c12e8cbda0cd7b500d87
+  item_date: "2016-03-27 00:00:00"
+  title: Rising.fm ? Music charts powered by SoundCloud
+  url: http://rising.fm/
+  domain: rising.fm
   image: ""
 - curated_id: 5794ccb71905cec8aacc733ffb66375d
   item_date: "2016-03-29 00:00:00"
@@ -1517,17 +663,17 @@
   url: https://medium.com/@anildash/the-end-of-thinkup-e600bc46cc56#.4wyiqb1iz
   domain: medium.com
   image: ""
-- curated_id: d33cb76bfe04ee0a56162b305e90bbd9
-  item_date: "2016-06-20 00:00:00"
-  title: 'QuickBooks Connect 2016: Planning Checklist for Developers'
-  url: https://developer.intuit.com/hub/blog/2016/06/20/quickbooks-connect-2016-planning-checklist-for-developers
-  domain: developer.intuit.com
-  image: ""
 - curated_id: 2b437d32718420e7daa7877cbf7083ea
   item_date: "2016-06-20 00:00:00"
   title: Introducing Google Docs Integration with Cacoo!
   url: https://nulab-inc.com/blog/cacoo/introducing-google-docs-integration-cacoo/
   domain: nulab-inc.com
+  image: ""
+- curated_id: d33cb76bfe04ee0a56162b305e90bbd9
+  item_date: "2016-06-20 00:00:00"
+  title: 'QuickBooks Connect 2016: Planning Checklist for Developers'
+  url: https://developer.intuit.com/hub/blog/2016/06/20/quickbooks-connect-2016-planning-checklist-for-developers
+  domain: developer.intuit.com
   image: ""
 - curated_id: 27bd350041b959d65d51cb5643d9cf87
   item_date: "2016-06-27 00:00:00"
@@ -1657,12 +803,6 @@
   url: https://about.gitlab.com/2016/09/16/announcing-gitlab-and-mesosphere/
   domain: about.gitlab.com
   image: ""
-- curated_id: b377501bb2d53c812d9dd1bb1c8e8468
-  item_date: "2016-09-23 00:00:00"
-  title: Fishbowl Integrates with Avalara
-  url: https://www.fishbowlinventory.com/blog/2016/09/23/fishbowl-integrates-with-avalara/
-  domain: www.fishbowlinventory.com
-  image: ""
 - curated_id: fd4642ba223ab75e3163e14aba5d5b58
   item_date: "2016-09-23 00:00:00"
   title: 'Day-in-the-Life of a Data Integration Developer: Advanced Talend Studio
@@ -1670,23 +810,29 @@
   url: http://www.talend.com/blog/2016/09/23/day-in-the-life-of-a-data-integration-developer-advanced-talend-studio-features
   domain: www.talend.com
   image: ""
+- curated_id: b377501bb2d53c812d9dd1bb1c8e8468
+  item_date: "2016-09-23 00:00:00"
+  title: Fishbowl Integrates with Avalara
+  url: https://www.fishbowlinventory.com/blog/2016/09/23/fishbowl-integrates-with-avalara/
+  domain: www.fishbowlinventory.com
+  image: ""
 - curated_id: 1b0d609c921761f5207a9ef48c8d1f37
   item_date: "2016-09-26 00:00:00"
   title: 'Data Pipeline: Salesforce Connector'
   url: https://engineeringblog.yelp.com/2016/09/data-pipeline-salesforce-connector.html
   domain: engineeringblog.yelp.com
   image: ""
-- curated_id: 0348a1d82b416b2ca4c860816e2ffe08
-  item_date: "2016-09-27 00:00:00"
-  title: Slack, Salesforce ink broad integration pact
-  url: http://www.zdnet.com/article/slack-salesforce-ink-broad-integration-pact/
-  domain: www.zdnet.com
-  image: ""
 - curated_id: cbad5ebc94267b53a8a3d43bdaa532c4
   item_date: "2016-09-27 00:00:00"
   title: New Integrations To Bolster Your Business
   url: http://www.activecampaign.com/blog/new-integrations-to-bolster-your-business/
   domain: www.activecampaign.com
+  image: ""
+- curated_id: 0348a1d82b416b2ca4c860816e2ffe08
+  item_date: "2016-09-27 00:00:00"
+  title: Slack, Salesforce ink broad integration pact
+  url: http://www.zdnet.com/article/slack-salesforce-ink-broad-integration-pact/
+  domain: www.zdnet.com
   image: ""
 - curated_id: 3a089a489635d880013fa950f8e01659
   item_date: "2016-09-28 00:00:00"
@@ -1752,6 +898,211 @@
   item_date: "2016-11-02 00:00:00"
   title: Announcing Our Integration with Apptimize
   url: http://blog.mparticle.com/announcing-integration-apptimize/
+  domain: blog.mparticle.com
+  image: ""
+- curated_id: 2d7341b64f7cc21de2705ccc267c4759
+  item_date: "2017-01-04 00:00:00"
+  title: Pingup Extends Reach With New Bing Integration
+  url: http://streetfightmag.com/2017/01/04/pingup-extends-reach-with-new-bing-integration/
+  domain: streetfightmag.com
+  image: ""
+- curated_id: ad43b738d6ce4363d610675daafacd16
+  item_date: "2017-01-05 00:00:00"
+  title: Harnessing the Integration Spectrum
+  url: http://www.tibco.com/blog/2017/01/05/harnessing-the-integration-spectrum/
+  domain: www.tibco.com
+  image: ""
+- curated_id: 117b77f30740a36cfd6f8d6db9d71028
+  item_date: "2017-01-06 00:00:00"
+  title: Fishbowl Integrates with LemonStand
+  url: https://www.fishbowlinventory.com/blog/2017/01/06/fishbowl-integrates-with-lemonstand/
+  domain: www.fishbowlinventory.com
+  image: ""
+- curated_id: 0fea2c658393900a3101c831b819e837
+  item_date: "2017-01-14 00:00:00"
+  title: Signatures with PUT vs POST
+  url: https://forums.asp.net/t/2113705.aspx
+  domain: forums.asp.net
+  image: ""
+- curated_id: 4303deb14d2b241862ec5249315b8bd1
+  item_date: "2017-01-17 00:00:00"
+  title: Zoho Mail integrates with 750+ applications
+  url: https://www.zoho.com/mail/blog/zoho-mail-integrates-with-750-applications.html
+  domain: www.zoho.com
+  image: ""
+- curated_id: 6199b34109398daf08000d6f48f2886c
+  item_date: "2017-01-17 00:00:00"
+  title: Announcing Our Integration with Facebook Atlas
+  url: http://blog.mparticle.com/announcing-integration-atlas/
+  domain: blog.mparticle.com
+  image: ""
+- curated_id: 55a0ea386a2f49629a14088282064efe
+  item_date: "2017-01-18 00:00:00"
+  title: The Perfect Integration-ready API
+  url: https://zapier.com/engineering/integration-ready-api/
+  domain: zapier.com
+  image: ""
+- curated_id: b4229339c3ef9de61d65c26977efb85a
+  item_date: "2017-01-20 00:00:00"
+  title: Make Tech More Accessible with These APIs
+  url: http://blog.rapidapi.com/2017/01/20/make-tech-more-accessible-with-these-apis/
+  domain: blog.rapidapi.com
+  image: ""
+- curated_id: 52bd493645adb2acac8c2e9ca6245aef
+  item_date: "2017-01-20 00:00:00"
+  title: Otixo is now integrated with Slack!
+  url: https://www.otixo.com/en/2017/01/20/otixo-is-now-integrated-with-slack/
+  domain: www.otixo.com
+  image: ""
+- curated_id: c8d9a62e4aae293023ea80445b518dbe
+  item_date: "2017-01-31 00:00:00"
+  title: Zenefits expands its HR platform with new apps, integrations
+  url: http://siliconangle.com/blog/2017/01/31/zenefits-expands-hr-platform-new-apps-integrations/
+  domain: siliconangle.com
+  image: ""
+- curated_id: a24c44a8186084f81ac4d2e9447f3d27
+  item_date: "2017-01-31 00:00:00"
+  title: Announcing Our Snapchat Integration
+  url: https://www.mparticle.com/snapchat
+  domain: www.mparticle.com
+  image: ""
+- curated_id: 39c1309e39feba80e6e6fb04dcf74e2f
+  item_date: "2017-02-01 00:00:00"
+  title: Working with the Evernote API in Rails
+  url: https://blog.codeship.com/the-evernote-api-in-rails/
+  domain: blog.codeship.com
+  image: ""
+- curated_id: 65c67bdedb8d4a3fe9027569b18bf69f
+  item_date: "2017-02-02 00:00:00"
+  title: Announcing Our Feeds Integration with AppsFlyer
+  url: http://blog.mparticle.com/announcing-feeds-integration-appsflyer/
+  domain: blog.mparticle.com
+  image: ""
+- curated_id: c2159ae04d7cfe1b056bff673edb70e7
+  item_date: "2017-02-02 00:00:00"
+  title: "Introducing Hull\u2019s Intercom integration"
+  url: https://medium.com/intercom-developers/introducing-hulls-intercom-integration-afed1afe0cf7
+  domain: medium.com
+  image: ""
+- curated_id: b9c1269efab78c563dbd5925a0ed6f7d
+  item_date: "2017-02-07 00:00:00"
+  title: New integrations for you to discover
+  url: https://medium.com/intercom-developers/new-integrations-for-you-to-discover-6fc8b7694e23
+  domain: medium.com
+  image: ""
+- curated_id: f5e8ba76546d88fbc9f0502e003319d1
+  item_date: "2017-02-07 00:00:00"
+  title: Stoplight Launches Scenarios API Testing and Debugging Tool
+  url: https://www.programmableweb.com/news/stoplight-launches-scenarios-api-testing-and-debugging-tool/brief/2017/02/07
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: c68103b783d07c0f484ef88e6cd4adaf
+  item_date: "2017-02-08 00:00:00"
+  title: 'Integrating Big Data Platforms With Bedrock: REST API'
+  url: http://blog.zaloni.com/integrating-big-data-platforms-with-bedrock-rest-api
+  domain: blog.zaloni.com
+  image: ""
+- curated_id: 228e675bfad612879f8652b6dad656a9
+  item_date: "2017-03-10 00:00:00"
+  title: Fishbowl Integrates with QuickBooks Payments
+  url: https://www.fishbowlinventory.com/blog/2017/03/10/fishbowl-integrates-with-quickbooks-payments/
+  domain: www.fishbowlinventory.com
+  image: ""
+- curated_id: a6ca01b667fd52df780a7be775cc1507
+  item_date: "2017-03-11 09:39:47"
+  title: Everything Travel Agents Need To Know About Third-Party Supplier API Integration
+  url: https://medium.com/@TravelCarma/everything-travel-agents-need-to-know-about-third-party-supplier-api-integration-a6174b013c1f#.e3qtxzx2o
+  domain: medium.com
+  image: ""
+- curated_id: f95ea50d6d2d4fbc757466bb32ce1e4b
+  item_date: "2017-03-14 00:00:00"
+  title: iRobot adds Alexa integration, analytics to smart home
+  url: http://www.zdnet.com/article/irobot-adds-alexa-integration-analytics-to-smart-home/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 4fa4810affced9ebc9d58a151d1003c5
+  item_date: "2017-03-14 00:00:00"
+  title: Introducing the Intercom integration for Microsoft Teams
+  url: https://blog.intercom.com/introducing-the-intercom-integration-for-microsoft-teams/
+  domain: blog.intercom.com
+  image: ""
+- curated_id: 7f693063ac89cc75e905c6f24ba50e4a
+  item_date: "2017-03-21 00:00:00"
+  title: "API Integration? \u201CChallenge Accepted!\u201D"
+  url: https://www.apicasystem.com/blog/api-integration-challenge-accepted/
+  domain: www.apicasystem.com
+  image: ""
+- curated_id: 1606175c930546bd5cb8183a5aab5955
+  item_date: "2017-03-22 00:00:00"
+  title: "Concepts to Integration \u2013 Abstraction"
+  url: http://blog.scribesoft.com/concepts-to-integration-abstraction/
+  domain: blog.scribesoft.com
+  image: ""
+- curated_id: 977af2646670c01c9348e3d078536068
+  item_date: "2017-04-07 00:00:00"
+  title: Developing a Best-in-Class API Integration
+  url: https://dzone.com/articles/developing-a-best-in-class-api-integration
+  domain: dzone.com
+  image: ""
+- curated_id: 0fadf0fedee7edbdb0e3cd30d2471e96
+  item_date: "2017-04-12 00:00:00"
+  title: Machine-to-Machine Salesforce Integrations in Java with REST and SOAP
+  url: https://developer.salesforce.com/blogs/developer-relations/2017/04/machine-machine-salesforce-integrations-java-rest-soap.html
+  domain: developer.salesforce.com
+  image: ""
+- curated_id: 176037c91376a859ce16b3fceafcf6b0
+  item_date: "2017-04-13 00:00:00"
+  title: Integrate Your Backand App with Salesforce to Leverage Customer Data
+  url: http://blog.backand.com/integrate-backand-app-salesforce-leverage-customer-data/
+  domain: blog.backand.com
+  image: ""
+- curated_id: 504ae9e350651df6a1fa617eef1a7935
+  item_date: "2017-04-18 00:00:00"
+  title: Facebook Upgrades Workplace With Salesforce, Microsoft And Box Integrations
+  url: http://www.crn.com/news/cloud/300084599/facebook-upgrades-workplace-with-salesforce-microsoft-and-box-integrations.htm
+  domain: www.crn.com
+  image: ""
+- curated_id: 0e13cb4434c165f85f231fb3f05aaf9c
+  item_date: "2017-04-25 14:07:06"
+  title: 'Tweet: Push your data from Mixpanel to MS SQL Server https://t.co/Yr9X7MPXtD
+    #ETL #datawarehouse #analytics https://t.co/kFufZ0OXC7'
+  url: https://twitter.com/APIrise/statuses/856977893783728129
+  domain: twitter.com
+  image: ""
+- curated_id: bdfb2f219a32ce33503a63c16bad8f1d
+  item_date: "2017-04-26 11:27:25"
+  title: 'Introducing a New Integration: Postman Pro + Slack!'
+  url: http://blog.getpostman.com/2017/02/08/introducing-a-new-integration-postman-pro-slack/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: 35f7837d86d3057416b9b92d386a6bf3
+  item_date: "2017-04-27 00:00:00"
+  title: How to manage software development in Slack
+  url: https://slackhq.com/how-to-manage-software-development-in-slack-37cfbe29ec43
+  domain: slackhq.com
+  image: ""
+- curated_id: f927b2802a42ccaf3a453b78d933d23e
+  item_date: "2017-04-27 10:30:15"
+  title: Continuous Integration with Codeship and Runscope API Tests
+  url: https://blog.runscope.com/posts/continuous-integration-with-runscope-api-tests-and-codeship-tutorial
+  domain: blog.runscope.com
+  image: ""
+- curated_id: 5eea56f0f83e358ec34f9f3e0d9a211b
+  item_date: "2017-04-28 00:00:00"
+  title: "Codeship\u2019s Slack Integration"
+  url: https://blog.codeship.com/codeships-slack-integration/
+  domain: blog.codeship.com
+  image: ""
+- curated_id: 4218fce6f782fbed10f4a831c4777049
+  item_date: "2017-04-28 00:00:00"
+  title: Fishbowl Integrates with SPS Commerce
+  url: https://www.fishbowlinventory.com/blog/2017/04/28/fishbowl-integrates-with-sps-commerce/
+  domain: www.fishbowlinventory.com
+  image: ""
+- curated_id: 3294ff7bc87b65ff371d8d7eb4b6b9f1
+  item_date: "2017-05-02 00:00:00"
+  title: Announcing Our Integration with YouAppi
+  url: http://blog.mparticle.com/announcing-integration-youappi/
   domain: blog.mparticle.com
   image: ""
 ...
