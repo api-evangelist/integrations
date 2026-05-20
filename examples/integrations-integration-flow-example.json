@@ -1,0 +1,47 @@
+{
+  "id": "flow_01HZ8K3M5Y4R7T2B9C6V8N1P4Q",
+  "name": "New Salesforce Lead to Slack #sales-alerts",
+  "description": "When a new lead is created in Salesforce, post a notification to the #sales-alerts Slack channel and append a row to the warehouse leads table.",
+  "platform": "zapier",
+  "flow_type": "workflow-automation",
+  "status": "enabled",
+  "trigger": {
+    "type": "webhook",
+    "provider": "salesforce",
+    "event": "lead.created"
+  },
+  "steps": [
+    {
+      "id": "step_1",
+      "name": "Filter by lead source",
+      "type": "filter"
+    },
+    {
+      "id": "step_2",
+      "name": "Format lead payload",
+      "type": "transform"
+    },
+    {
+      "id": "step_3",
+      "name": "Post message to Slack",
+      "provider": "slack",
+      "action": "chat.postMessage",
+      "type": "action"
+    },
+    {
+      "id": "step_4",
+      "name": "Insert row into Snowflake leads table",
+      "provider": "snowflake",
+      "action": "rows.insert",
+      "type": "action"
+    }
+  ],
+  "connections": [
+    "conn_01HZ7Q9JR2K7N8B6S4D2P5W3X9",
+    "conn_01HZ8AB12CDEFGHJKLMNPQRSTU",
+    "conn_01HZ8XYZ34LMNOPQRSTUVWXYZA"
+  ],
+  "tenant_id": "tenant_acme_corp",
+  "created_at": "2026-05-12T14:22:01Z",
+  "last_run_at": "2026-05-19T09:14:55Z"
+}

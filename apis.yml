@@ -1,0 +1,207 @@
+aid: integrations
+name: Integrations
+description: >-
+  An index and topic collection covering the broad integration tooling market, including iPaaS and embedded-iPaaS platforms, workflow automation tools, unified API providers, ETL and reverse-ETL data pipelines, and orchestration engines. Integration platforms reduce the cost of connecting disparate SaaS, on-premise, and AI systems by offering pre-built connectors, declarative flow builders, managed authentication, and normalized data models. This collection includes general-purpose iPaaS leaders like Zapier, Make, and Workato, embedded-iPaaS providers like Paragon and Cobalt, unified API platforms like Merge, Apideck, Nango, and StackOne, data integration and ELT platforms like Fivetran, Airbyte, and Stitch, reverse-ETL tools like Hightouch and Census, and workflow orchestration engines like Airflow, Prefect, Dagster, and Kestra.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+- Integration
+- iPaaS
+- Embedded iPaaS
+- Workflow Automation
+- Data Integration
+- Unified API
+- ETL
+- Reverse ETL
+- Data Pipeline
+- Orchestration
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/integrations/refs/heads/main/apis.yml
+created: '2026-05-19'
+modified: '2026-05-19'
+specificationVersion: '0.19'
+apis: []
+network:
+- name: Airbyte
+  url: https://raw.githubusercontent.com/api-evangelist/airbyte/refs/heads/main/apis.yml
+- name: Albato
+  url: https://raw.githubusercontent.com/api-evangelist/albato/refs/heads/main/apis.yml
+- name: Apache Airflow
+  url: https://raw.githubusercontent.com/api-evangelist/airflow/refs/heads/main/apis.yml
+- name: Apache NiFi
+  url: https://raw.githubusercontent.com/api-evangelist/apache-nifi/refs/heads/main/apis.yml
+- name: Apideck
+  url: https://raw.githubusercontent.com/api-evangelist/apideck/refs/heads/main/apis.yml
+- name: Appmixer
+  url: https://raw.githubusercontent.com/api-evangelist/appmixer/refs/heads/main/apis.yml
+- name: Automatisch
+  url: https://raw.githubusercontent.com/api-evangelist/automatisch/refs/heads/main/apis.yml
+- name: Bardeen
+  url: https://raw.githubusercontent.com/api-evangelist/bardeen/refs/heads/main/apis.yml
+- name: Boomi
+  url: https://raw.githubusercontent.com/api-evangelist/boomi/refs/heads/main/apis.yml
+- name: Celigo
+  url: https://raw.githubusercontent.com/api-evangelist/celigo/refs/heads/main/apis.yml
+- name: Census
+  url: https://raw.githubusercontent.com/api-evangelist/census/refs/heads/main/apis.yml
+- name: Cobalt
+  url: https://raw.githubusercontent.com/api-evangelist/cobalt/refs/heads/main/apis.yml
+- name: Cyclr
+  url: https://raw.githubusercontent.com/api-evangelist/cyclr/refs/heads/main/apis.yml
+- name: Dagster
+  url: https://raw.githubusercontent.com/api-evangelist/dagster/refs/heads/main/apis.yml
+- name: Elastic.io
+  url: https://raw.githubusercontent.com/api-evangelist/elastic-io/refs/heads/main/apis.yml
+- name: Fivetran
+  url: https://raw.githubusercontent.com/api-evangelist/fivetran/refs/heads/main/apis.yml
+- name: Frends
+  url: https://raw.githubusercontent.com/api-evangelist/frends/refs/heads/main/apis.yml
+- name: Hightouch
+  url: https://raw.githubusercontent.com/api-evangelist/hightouch/refs/heads/main/apis.yml
+- name: Hotglue
+  url: https://raw.githubusercontent.com/api-evangelist/hotglue/refs/heads/main/apis.yml
+- name: Huginn
+  url: https://raw.githubusercontent.com/api-evangelist/huginn/refs/heads/main/apis.yml
+- name: IFTTT
+  url: https://raw.githubusercontent.com/api-evangelist/ifttt/refs/heads/main/apis.yml
+- name: Informatica
+  url: https://raw.githubusercontent.com/api-evangelist/informatica/refs/heads/main/apis.yml
+- name: Integrately
+  url: https://raw.githubusercontent.com/api-evangelist/integrately/refs/heads/main/apis.yml
+- name: Integration.app
+  url: https://raw.githubusercontent.com/api-evangelist/integration-app/refs/heads/main/apis.yml
+- name: Jitterbit
+  url: https://raw.githubusercontent.com/api-evangelist/jitterbit/refs/heads/main/apis.yml
+- name: Kestra
+  url: https://raw.githubusercontent.com/api-evangelist/kestra/refs/heads/main/apis.yml
+- name: Knit
+  url: https://raw.githubusercontent.com/api-evangelist/knit/refs/heads/main/apis.yml
+- name: Kombo
+  url: https://raw.githubusercontent.com/api-evangelist/kombo/refs/heads/main/apis.yml
+- name: Latenode
+  url: https://raw.githubusercontent.com/api-evangelist/latenode/refs/heads/main/apis.yml
+- name: Locoia
+  url: https://raw.githubusercontent.com/api-evangelist/locoia/refs/heads/main/apis.yml
+- name: Make
+  url: https://raw.githubusercontent.com/api-evangelist/make/refs/heads/main/apis.yml
+- name: Merge
+  url: https://raw.githubusercontent.com/api-evangelist/merge/refs/heads/main/apis.yml
+- name: MuleSoft
+  url: https://raw.githubusercontent.com/api-evangelist/mulesoft/refs/heads/main/apis.yml
+- name: n8n
+  url: https://raw.githubusercontent.com/api-evangelist/n8n/refs/heads/main/apis.yml
+- name: Nango
+  url: https://raw.githubusercontent.com/api-evangelist/nango/refs/heads/main/apis.yml
+- name: Node-RED
+  url: https://raw.githubusercontent.com/api-evangelist/node-red/refs/heads/main/apis.yml
+- name: Pabbly Connect
+  url: https://raw.githubusercontent.com/api-evangelist/pabbly-connect/refs/heads/main/apis.yml
+- name: Panora
+  url: https://raw.githubusercontent.com/api-evangelist/panora/refs/heads/main/apis.yml
+- name: Paragon
+  url: https://raw.githubusercontent.com/api-evangelist/paragon/refs/heads/main/apis.yml
+- name: Pipedream
+  url: https://raw.githubusercontent.com/api-evangelist/pipedream/refs/heads/main/apis.yml
+- name: Polytomic
+  url: https://raw.githubusercontent.com/api-evangelist/polytomic/refs/heads/main/apis.yml
+- name: Prefect
+  url: https://raw.githubusercontent.com/api-evangelist/prefect/refs/heads/main/apis.yml
+- name: Revert
+  url: https://raw.githubusercontent.com/api-evangelist/revert/refs/heads/main/apis.yml
+- name: RudderStack
+  url: https://raw.githubusercontent.com/api-evangelist/rudderstack/refs/heads/main/apis.yml
+- name: SnapLogic
+  url: https://raw.githubusercontent.com/api-evangelist/snaplogic/refs/heads/main/apis.yml
+- name: StackOne
+  url: https://raw.githubusercontent.com/api-evangelist/stackone/refs/heads/main/apis.yml
+- name: Stitch
+  url: https://raw.githubusercontent.com/api-evangelist/stitch/refs/heads/main/apis.yml
+- name: Talend
+  url: https://raw.githubusercontent.com/api-evangelist/talend/refs/heads/main/apis.yml
+- name: TIBCO
+  url: https://raw.githubusercontent.com/api-evangelist/tibco/refs/heads/main/apis.yml
+- name: Tray.io
+  url: https://raw.githubusercontent.com/api-evangelist/tray-io/refs/heads/main/apis.yml
+- name: Trigger.dev
+  url: https://raw.githubusercontent.com/api-evangelist/trigger-dev/refs/heads/main/apis.yml
+- name: Truto
+  url: https://raw.githubusercontent.com/api-evangelist/truto/refs/heads/main/apis.yml
+- name: Unified.to
+  url: https://raw.githubusercontent.com/api-evangelist/unified-to/refs/heads/main/apis.yml
+- name: Vessel
+  url: https://raw.githubusercontent.com/api-evangelist/vessel/refs/heads/main/apis.yml
+- name: Workato
+  url: https://raw.githubusercontent.com/api-evangelist/workato/refs/heads/main/apis.yml
+- name: Zapier
+  url: https://raw.githubusercontent.com/api-evangelist/zapier/refs/heads/main/apis.yml
+common:
+- type: Portal
+  url: https://apievangelist.com
+- type: GitHubOrganization
+  url: https://github.com/api-evangelist
+- type: Features
+  data:
+  - name: Pre-Built Connector Libraries
+    description: Integration platforms ship hundreds to thousands of pre-built connectors so engineering teams can wire up SaaS systems without authoring custom HTTP clients for each provider.
+  - name: Visual Workflow Builders
+    description: iPaaS and workflow automation tools like Zapier, Make, and n8n expose drag-and-drop or node-based canvases that let non-developers compose multi-step automations across APIs.
+  - name: Embedded Integration Marketplaces
+    description: Embedded-iPaaS vendors like Paragon, Cobalt, and Integration.app give SaaS companies a white-labeled integration marketplace they can ship inside their own product.
+  - name: Unified API Normalization
+    description: Unified API providers like Merge, Apideck, Nango, and StackOne collapse dozens of category-specific APIs (HRIS, CRM, ATS, accounting) into a single normalized schema and auth surface.
+  - name: Managed ETL and ELT Pipelines
+    description: Data integration platforms like Fivetran, Airbyte, and Stitch land data from SaaS sources and databases into cloud warehouses on managed schedules with schema evolution handling.
+  - name: Reverse ETL and Operational Sync
+    description: Reverse-ETL tools like Hightouch, Census, and Polytomic push warehouse-modeled data back out to SaaS systems of action so sales, marketing, and support teams can act on it.
+  - name: Workflow Orchestration and Scheduling
+    description: Orchestration engines like Apache Airflow, Prefect, Dagster, and Kestra schedule, retry, and observe data and integration pipelines as declarative DAGs.
+  - name: Managed Authentication and Connection Storage
+    description: Integration platforms handle OAuth dance, token refresh, secret rotation, and per-tenant connection storage so consuming applications never have to manage credentials directly.
+- type: UseCases
+  data:
+  - name: SaaS Product Integration Marketplace
+    description: SaaS vendors use embedded iPaaS like Paragon, Cobalt, or Integration.app to ship an in-product "Integrations" tab that lets their customers connect to Salesforce, HubSpot, Slack, and Google Workspace without leaving the product.
+  - name: Unified HRIS and ATS Sync
+    description: Applicant-tracking and HR-tech vendors use unified APIs like Merge, Kombo, or Knit to onboard customers running BambooHR, Workday, ADP, and Greenhouse against a single normalized employee model.
+  - name: SaaS-to-Warehouse Data Replication
+    description: Analytics and data teams use Fivetran, Airbyte, or Stitch to land Stripe, Salesforce, HubSpot, NetSuite, and PostgreSQL data into Snowflake, BigQuery, or Redshift on managed schedules.
+  - name: Reverse ETL for Customer 360
+    description: Data teams use Hightouch, Census, or Polytomic to push warehouse-modeled customer segments back into Salesforce, HubSpot, Braze, and Intercom so go-to-market teams act on consistent definitions.
+  - name: Citizen-Developer Workflow Automation
+    description: Operations and revenue-ops teams use Zapier, Make, n8n, or Pabbly Connect to glue together calendars, forms, CRMs, and Slack channels without writing code.
+  - name: Event-Driven Internal Pipelines
+    description: Platform teams use n8n, Pipedream, Trigger.dev, Prefect, or Dagster to orchestrate event-driven internal workflows that span webhooks, queues, databases, and AI calls.
+  - name: Enterprise Application Integration
+    description: Large enterprises use Boomi, MuleSoft, Informatica, SnapLogic, and TIBCO to connect ERP, CRM, on-premise databases, and message buses with governance, monitoring, and SLAs.
+  - name: AI Agent Tool and Action Integration
+    description: AI-application teams use integration platforms and unified APIs to expose hundreds of SaaS actions as governed tools that agents can invoke with managed credentials and audit logs.
+- type: Integrations
+  data:
+  - name: Zapier
+    description: General-purpose workflow automation platform with 7,000+ connected apps and a no-code trigger/action builder used by millions of small businesses.
+  - name: Make
+    description: Visual scenario builder (formerly Integromat) for multi-step, branching automations with strong data-transformation primitives.
+  - name: Workato
+    description: Enterprise iPaaS and intelligent automation platform with strong recipes-as-code model and embedded offering.
+  - name: n8n
+    description: Source-available, self-hostable workflow automation tool with code nodes and an open node ecosystem.
+  - name: MuleSoft
+    description: Salesforce-owned enterprise iPaaS and API management platform built around the Anypoint Platform and DataWeave.
+  - name: Merge
+    description: Unified API for HRIS, ATS, CRM, ticketing, accounting, and file-storage integrations across 200+ providers.
+  - name: Paragon
+    description: Embedded iPaaS that ships an in-product integration marketplace and workflow builder for SaaS vendors.
+  - name: Fivetran
+    description: Managed ELT platform that lands data from 500+ SaaS sources and databases into cloud warehouses with schema evolution.
+  - name: Airbyte
+    description: Open-source ELT platform with a community connector marketplace and a managed cloud offering.
+  - name: Hightouch
+    description: Reverse-ETL platform that syncs modeled warehouse data into SaaS systems of action across sales, marketing, and support.
+  - name: Apache Airflow
+    description: Widely deployed open-source workflow orchestrator that defines pipelines as Python DAGs with rich scheduling and retry semantics.
+  - name: Nango
+    description: Open-source unified API and managed authentication layer for OAuth integrations across 400+ apps.
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+humanURL: https://apievangelist.com

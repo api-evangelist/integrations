@@ -1,0 +1,394 @@
+vocabulary: "1.0.0"
+
+info:
+  provider: Integrations
+  description: Vocabulary for the integrations topic, covering iPaaS, embedded iPaaS, workflow automation, unified APIs, ETL/ELT, reverse ETL, and workflow orchestration platforms.
+  created: '2026-05-19'
+  modified: '2026-05-19'
+
+operational:
+  apis:
+    - name: Zapier Platform
+      namespace: zapier
+      status: active
+    - name: Make
+      namespace: make
+      status: active
+    - name: Workato
+      namespace: workato
+      status: active
+    - name: n8n
+      namespace: n8n
+      status: active
+    - name: Paragon
+      namespace: paragon
+      status: active
+    - name: Merge Unified API
+      namespace: merge
+      status: active
+    - name: Nango
+      namespace: nango
+      status: active
+    - name: Fivetran
+      namespace: fivetran
+      status: active
+    - name: Airbyte
+      namespace: airbyte
+      status: active
+    - name: Hightouch
+      namespace: hightouch
+      status: active
+    - name: Apache Airflow
+      namespace: airflow
+      status: active
+
+  resources:
+    - name: connections
+      description: Authenticated links from the integration platform to upstream SaaS, database, or API providers on behalf of a tenant
+      actions:
+        - create
+        - get
+        - list
+        - refresh
+        - revoke
+    - name: flows
+      description: Declarative integration flows (workflows, recipes, scenarios, zaps, pipelines, DAGs)
+      actions:
+        - create
+        - get
+        - list
+        - update
+        - enable
+        - disable
+        - run
+        - delete
+    - name: runs
+      description: Individual execution instances of a flow
+      actions:
+        - list
+        - get
+        - retry
+        - cancel
+    - name: sync-jobs
+      description: ETL, ELT, or reverse-ETL sync jobs that move records between a source and a destination
+      actions:
+        - create
+        - list
+        - get
+        - trigger
+        - pause
+        - resume
+    - name: field-mappings
+      description: Source-to-destination field mappings used by unified APIs, ETL pipelines, and reverse-ETL syncs
+      actions:
+        - create
+        - list
+        - get
+        - update
+        - delete
+    - name: webhooks
+      description: Inbound and outbound webhook subscriptions used by triggers and event-driven flows
+      actions:
+        - create
+        - list
+        - delete
+
+  actions:
+    - name: list
+      description: Enumerate resources
+      httpMethod: GET
+      pattern: read
+    - name: get
+      description: Retrieve a single resource
+      httpMethod: GET
+      pattern: read
+    - name: create
+      description: Create a new resource
+      httpMethod: POST
+      pattern: write
+    - name: update
+      description: Update an existing resource
+      httpMethod: PUT
+      pattern: write
+    - name: delete
+      description: Delete a resource
+      httpMethod: DELETE
+      pattern: destructive
+    - name: enable
+      description: Activate a flow or sync job
+      httpMethod: POST
+      pattern: write
+    - name: disable
+      description: Deactivate a flow or sync job
+      httpMethod: POST
+      pattern: write
+    - name: run
+      description: Manually execute a flow
+      httpMethod: POST
+      pattern: write
+    - name: trigger
+      description: Manually start a sync job
+      httpMethod: POST
+      pattern: write
+    - name: retry
+      description: Re-execute a failed run
+      httpMethod: POST
+      pattern: write
+    - name: cancel
+      description: Cancel an in-progress run
+      httpMethod: POST
+      pattern: write
+    - name: refresh
+      description: Refresh expired credentials on a connection
+      httpMethod: POST
+      pattern: write
+    - name: revoke
+      description: Revoke a connection and its stored credentials
+      httpMethod: DELETE
+      pattern: destructive
+
+  schemas:
+    core:
+      - name: Connection
+        description: Authenticated connection from the integration platform to an upstream provider
+        properties:
+          - id
+          - name
+          - provider
+          - category
+          - tenant_id
+          - authentication
+          - status
+          - platform
+          - created_at
+          - last_synced_at
+      - name: IntegrationFlow
+        description: Declarative trigger-and-steps flow that moves data between connections
+        properties:
+          - id
+          - name
+          - platform
+          - flow_type
+          - status
+          - trigger
+          - steps
+          - connections
+          - tenant_id
+
+  enums:
+    flow_types:
+      - workflow-automation
+      - ipaas-recipe
+      - embedded-flow
+      - etl-pipeline
+      - elt-pipeline
+      - reverse-etl-sync
+      - orchestration-dag
+      - event-stream
+    connection_status:
+      - active
+      - disconnected
+      - expired
+      - error
+      - pending
+    flow_status:
+      - enabled
+      - disabled
+      - draft
+      - errored
+      - paused
+    trigger_types:
+      - webhook
+      - schedule
+      - polling
+      - event
+      - manual
+      - api-call
+    step_types:
+      - action
+      - transform
+      - filter
+      - branch
+      - loop
+      - delay
+    authentication_types:
+      - oauth2
+      - apikey
+      - bearer
+      - basic
+      - jwt
+      - custom
+    provider_categories:
+      - CRM
+      - HRIS
+      - ATS
+      - Accounting
+      - Ticketing
+      - Marketing
+      - Communication
+      - Storage
+      - Database
+      - Warehouse
+      - Payments
+      - E-Commerce
+      - Other
+
+capability:
+  workflows:
+    - name: Embedded SaaS Integration Marketplace
+      description: A SaaS vendor ships an in-product integrations marketplace via an embedded iPaaS, letting customers connect their own Salesforce, HubSpot, or Slack accounts
+      apis:
+        - paragon
+        - cobalt
+        - integration-app
+      personas:
+        - SaaS Product Engineer
+      domains:
+        - Embedded iPaaS
+    - name: Unified API Onboarding
+      description: A vertical SaaS company integrates with dozens of HRIS, ATS, or CRM systems through a single normalized unified API
+      apis:
+        - merge
+        - apideck
+        - nango
+        - stackone
+      personas:
+        - Integration Developer
+      domains:
+        - Unified API
+    - name: SaaS-to-Warehouse Replication
+      description: A data team lands SaaS source data into a cloud warehouse on a managed schedule, with automatic schema evolution
+      apis:
+        - fivetran
+        - airbyte
+        - stitch
+      personas:
+        - Data Engineer
+      domains:
+        - Data Integration
+    - name: Reverse ETL Activation
+      description: A data team syncs warehouse-modeled audience and account data back into SaaS systems of action used by go-to-market teams
+      apis:
+        - hightouch
+        - census
+        - polytomic
+      personas:
+        - Analytics Engineer
+      domains:
+        - Reverse ETL
+    - name: No-Code Workflow Automation
+      description: An operations user builds multi-step automations that span calendars, forms, CRMs, and chat without writing code
+      apis:
+        - zapier
+        - make
+        - n8n
+        - pabbly-connect
+      personas:
+        - Citizen Developer
+      domains:
+        - Workflow Automation
+    - name: Event-Driven Orchestration
+      description: A platform team schedules and orchestrates data and integration pipelines as declarative DAGs with retries and observability
+      apis:
+        - airflow
+        - prefect
+        - dagster
+        - kestra
+      personas:
+        - Platform Engineer
+      domains:
+        - Orchestration
+
+  personas:
+    - id: saas-product-engineer
+      name: SaaS Product Engineer
+      description: Engineers at SaaS vendors who ship customer-facing integrations using embedded iPaaS
+      workflows:
+        - Embedded SaaS Integration Marketplace
+    - id: integration-developer
+      name: Integration Developer
+      description: Developers consuming unified APIs and iPaaS platforms to integrate with many third-party systems
+      workflows:
+        - Unified API Onboarding
+    - id: data-engineer
+      name: Data Engineer
+      description: Engineers building managed ELT pipelines from SaaS sources into the warehouse
+      workflows:
+        - SaaS-to-Warehouse Replication
+    - id: analytics-engineer
+      name: Analytics Engineer
+      description: Engineers modeling warehouse data and syncing it back to SaaS systems of action
+      workflows:
+        - Reverse ETL Activation
+    - id: citizen-developer
+      name: Citizen Developer
+      description: Non-engineering users building workflow automations in no-code iPaaS tools
+      workflows:
+        - No-Code Workflow Automation
+    - id: platform-engineer
+      name: Platform Engineer
+      description: Engineers operating internal orchestration platforms and data infrastructure
+      workflows:
+        - Event-Driven Orchestration
+
+  domains:
+    - name: iPaaS
+      description: General-purpose integration platforms-as-a-service with broad connector catalogs and workflow builders
+    - name: Embedded iPaaS
+      description: Integration platforms designed to be embedded inside another SaaS product as a customer-facing marketplace
+    - name: Workflow Automation
+      description: No-code and low-code tools for citizen developers to glue SaaS apps together with triggers and actions
+    - name: Unified API
+      description: API platforms that normalize multiple category-specific providers (HRIS, CRM, ATS, accounting) under a single schema
+    - name: Data Integration
+      description: ETL and ELT platforms that replicate data from SaaS sources and databases into warehouses
+    - name: Reverse ETL
+      description: Platforms that sync modeled warehouse data back out to SaaS systems of action
+    - name: Orchestration
+      description: Workflow orchestration engines that schedule, run, and observe data and integration pipelines as DAGs
+
+crossReference:
+  - resource: connections
+    operations:
+      - create
+      - refresh
+      - revoke
+    workflows:
+      - Embedded SaaS Integration Marketplace
+      - Unified API Onboarding
+    personas:
+      - SaaS Product Engineer
+      - Integration Developer
+  - resource: flows
+    operations:
+      - create
+      - enable
+      - disable
+      - run
+    workflows:
+      - No-Code Workflow Automation
+      - Event-Driven Orchestration
+    personas:
+      - Citizen Developer
+      - Platform Engineer
+  - resource: sync-jobs
+    operations:
+      - create
+      - trigger
+      - pause
+    workflows:
+      - SaaS-to-Warehouse Replication
+      - Reverse ETL Activation
+    personas:
+      - Data Engineer
+      - Analytics Engineer
+  - resource: field-mappings
+    operations:
+      - create
+      - update
+    workflows:
+      - Unified API Onboarding
+      - Reverse ETL Activation
+    personas:
+      - Integration Developer
+      - Analytics Engineer

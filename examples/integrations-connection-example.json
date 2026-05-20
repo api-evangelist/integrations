@@ -1,0 +1,21 @@
+{
+  "id": "conn_01HZ7Q9JR2K7N8B6S4D2P5W3X9",
+  "name": "Acme Corp Salesforce (Production)",
+  "provider": "salesforce",
+  "category": "CRM",
+  "tenant_id": "tenant_acme_corp",
+  "authentication": {
+    "type": "oauth2",
+    "scopes": ["api", "refresh_token", "offline_access"],
+    "expires_at": "2026-05-19T18:30:00Z"
+  },
+  "status": "active",
+  "platform": "paragon",
+  "created_at": "2026-05-12T14:22:01Z",
+  "last_synced_at": "2026-05-19T09:14:55Z",
+  "metadata": {
+    "instance_url": "https://acme.my.salesforce.com",
+    "organization_id": "00DDp0000001abcMAA",
+    "user_email": "ops@acme.example"
+  }
+}

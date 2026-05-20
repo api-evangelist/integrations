@@ -1,0 +1,99 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "int": "https://api-evangelist.github.io/integrations/schema/",
+    "schema": "https://schema.org/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dcat": "https://www.w3.org/ns/dcat#",
+
+    "Connection": "int:Connection",
+    "IntegrationFlow": "int:IntegrationFlow",
+    "SyncJob": "int:SyncJob",
+    "FieldMapping": "int:FieldMapping",
+
+    "id": "@id",
+    "name": "schema:name",
+    "description": "schema:description",
+    "provider": "schema:provider",
+    "platform": {
+      "@id": "int:platform",
+      "@type": "xsd:string"
+    },
+    "category": {
+      "@id": "int:category",
+      "@type": "xsd:string"
+    },
+    "tenant_id": {
+      "@id": "int:tenant_id",
+      "@type": "xsd:string"
+    },
+    "authentication": {
+      "@id": "int:authentication",
+      "@type": "@id"
+    },
+    "scopes": {
+      "@id": "int:scopes",
+      "@container": "@set",
+      "@type": "xsd:string"
+    },
+    "status": {
+      "@id": "int:status",
+      "@type": "xsd:string"
+    },
+    "flow_type": {
+      "@id": "int:flow_type",
+      "@type": "xsd:string"
+    },
+    "trigger": {
+      "@id": "int:trigger",
+      "@type": "@id"
+    },
+    "steps": {
+      "@id": "int:steps",
+      "@container": "@list",
+      "@type": "@id"
+    },
+    "connections": {
+      "@id": "int:connections",
+      "@container": "@set",
+      "@type": "@id"
+    },
+    "action": {
+      "@id": "int:action",
+      "@type": "xsd:string"
+    },
+    "event": {
+      "@id": "int:event",
+      "@type": "xsd:string"
+    },
+    "schedule": {
+      "@id": "int:schedule",
+      "@type": "xsd:string"
+    },
+    "metadata": {
+      "@id": "int:metadata"
+    },
+    "created_at": {
+      "@id": "dcterms:created",
+      "@type": "xsd:dateTime"
+    },
+    "last_synced_at": {
+      "@id": "int:last_synced_at",
+      "@type": "xsd:dateTime"
+    },
+    "last_run_at": {
+      "@id": "int:last_run_at",
+      "@type": "xsd:dateTime"
+    },
+    "expires_at": {
+      "@id": "int:expires_at",
+      "@type": "xsd:dateTime"
+    },
+    "tags": {
+      "@id": "dcat:keyword",
+      "@container": "@set",
+      "@type": "xsd:string"
+    }
+  }
+}

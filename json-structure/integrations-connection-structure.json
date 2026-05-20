@@ -1,0 +1,125 @@
+{
+  "$schema": "https://json-structure.org/meta/core/v0/#",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/integrations/refs/heads/main/json-structure/integrations-connection-structure.json",
+  "name": "Connection",
+  "description": "A configured connection from an integration platform to a third-party SaaS, database, or API provider on behalf of a specific tenant. Connections encapsulate the credentials, scopes, and runtime state that an iPaaS, embedded-iPaaS, unified API, or data pipeline uses to invoke the underlying provider.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable identifier for the connection assigned by the integration platform.",
+      "example": "conn_01HZ7Q9JR2K7N8B6S4D2P5W3X9"
+    },
+    "name": {
+      "type": "string",
+      "description": "Human-readable name for the connection.",
+      "example": "Acme Corp Salesforce (Production)"
+    },
+    "provider": {
+      "type": "string",
+      "description": "Slug of the upstream provider being connected to.",
+      "example": "salesforce"
+    },
+    "category": {
+      "type": "string",
+      "description": "Business category of the upstream provider.",
+      "enum": [
+        "CRM",
+        "HRIS",
+        "ATS",
+        "Accounting",
+        "Ticketing",
+        "Marketing",
+        "Communication",
+        "Storage",
+        "Database",
+        "Warehouse",
+        "Payments",
+        "E-Commerce",
+        "Other"
+      ],
+      "example": "CRM"
+    },
+    "tenant_id": {
+      "type": "string",
+      "description": "Identifier of the customer or workspace that owns this connection.",
+      "example": "tenant_acme_corp"
+    },
+    "authentication": {
+      "type": "object",
+      "description": "Authentication configuration used by the connection.",
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": [
+            "oauth2",
+            "apikey",
+            "bearer",
+            "basic",
+            "jwt",
+            "custom"
+          ],
+          "example": "oauth2"
+        },
+        "scopes": {
+          "type": "array",
+          "description": "Granted OAuth scopes or permission strings.",
+          "items": {
+            "type": "string"
+          },
+          "example": [
+            "api",
+            "refresh_token",
+            "offline_access"
+          ]
+        },
+        "expires_at": {
+          "type": "datetime",
+          "description": "Expiration timestamp for the current access token.",
+          "example": "2026-05-19T18:30:00Z"
+        }
+      },
+      "required": [
+        "type"
+      ]
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "active",
+        "disconnected",
+        "expired",
+        "error",
+        "pending"
+      ],
+      "description": "Current health status of the connection.",
+      "example": "active"
+    },
+    "platform": {
+      "type": "string",
+      "description": "Integration platform that owns this connection.",
+      "example": "paragon"
+    },
+    "created_at": {
+      "type": "datetime",
+      "description": "Timestamp when the connection was first established.",
+      "example": "2026-05-12T14:22:01Z"
+    },
+    "last_synced_at": {
+      "type": "datetime",
+      "description": "Timestamp of the most recent successful sync or API call using this connection.",
+      "example": "2026-05-19T09:14:55Z"
+    },
+    "metadata": {
+      "type": "object",
+      "description": "Free-form metadata captured from the upstream provider during connection."
+    }
+  },
+  "required": [
+    "id",
+    "provider",
+    "tenant_id",
+    "authentication",
+    "status"
+  ]
+}

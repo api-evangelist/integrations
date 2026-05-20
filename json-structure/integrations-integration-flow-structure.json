@@ -1,0 +1,166 @@
+{
+  "$schema": "https://json-structure.org/meta/core/v0/#",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/integrations/refs/heads/main/json-structure/integrations-integration-flow-structure.json",
+  "name": "IntegrationFlow",
+  "description": "A declarative integration flow (workflow, recipe, scenario, zap, DAG, or pipeline) that moves or transforms data between one or more connections. Normalizes the trigger-and-steps shape shared by iPaaS, embedded iPaaS, workflow automation, ETL, reverse ETL, and orchestration platforms.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable identifier for the flow.",
+      "example": "flow_01HZ8K3M5Y4R7T2B9C6V8N1P4Q"
+    },
+    "name": {
+      "type": "string",
+      "description": "Human-readable name of the flow.",
+      "example": "New Salesforce Lead to Slack #sales-alerts"
+    },
+    "description": {
+      "type": "string",
+      "description": "Description of what the flow does.",
+      "example": "When a new lead is created in Salesforce, post a notification to Slack and write a row to the warehouse."
+    },
+    "platform": {
+      "type": "string",
+      "description": "Slug of the integration platform that hosts this flow.",
+      "example": "zapier"
+    },
+    "flow_type": {
+      "type": "string",
+      "enum": [
+        "workflow-automation",
+        "ipaas-recipe",
+        "embedded-flow",
+        "etl-pipeline",
+        "elt-pipeline",
+        "reverse-etl-sync",
+        "orchestration-dag",
+        "event-stream"
+      ],
+      "description": "Shape of the flow as exposed by the underlying platform.",
+      "example": "workflow-automation"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "enabled",
+        "disabled",
+        "draft",
+        "errored",
+        "paused"
+      ],
+      "description": "Runtime state of the flow.",
+      "example": "enabled"
+    },
+    "trigger": {
+      "type": "object",
+      "description": "Event that starts the flow.",
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": [
+            "webhook",
+            "schedule",
+            "polling",
+            "event",
+            "manual",
+            "api-call"
+          ],
+          "example": "webhook"
+        },
+        "provider": {
+          "type": "string",
+          "description": "Slug of the connection that fires the trigger.",
+          "example": "salesforce"
+        },
+        "event": {
+          "type": "string",
+          "description": "Provider-specific event name.",
+          "example": "lead.created"
+        },
+        "schedule": {
+          "type": "string",
+          "description": "Cron expression or human schedule.",
+          "example": "0 */6 * * *"
+        }
+      },
+      "required": [
+        "type"
+      ]
+    },
+    "steps": {
+      "type": "array",
+      "description": "Ordered list of steps executed by the flow.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "example": "step_1"
+          },
+          "name": {
+            "type": "string",
+            "example": "Post message to Slack"
+          },
+          "provider": {
+            "type": "string",
+            "example": "slack"
+          },
+          "action": {
+            "type": "string",
+            "example": "chat.postMessage"
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "action",
+              "transform",
+              "filter",
+              "branch",
+              "loop",
+              "delay"
+            ],
+            "example": "action"
+          }
+        },
+        "required": [
+          "id",
+          "type"
+        ]
+      }
+    },
+    "connections": {
+      "type": "array",
+      "description": "Connection IDs the flow depends on at runtime.",
+      "items": {
+        "type": "string"
+      },
+      "example": [
+        "conn_01HZ7Q9JR2K7N8B6S4D2P5W3X9",
+        "conn_01HZ8AB12CDEFGHJKLMNPQRSTU"
+      ]
+    },
+    "tenant_id": {
+      "type": "string",
+      "description": "Owning customer or workspace.",
+      "example": "tenant_acme_corp"
+    },
+    "created_at": {
+      "type": "datetime",
+      "example": "2026-05-12T14:22:01Z"
+    },
+    "last_run_at": {
+      "type": "datetime",
+      "example": "2026-05-19T09:14:55Z"
+    }
+  },
+  "required": [
+    "id",
+    "name",
+    "platform",
+    "flow_type",
+    "status",
+    "trigger",
+    "steps"
+  ]
+}
