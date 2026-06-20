@@ -3,7 +3,7 @@ name: Integrations
 description: >-
   An index and topic collection covering the broad integration tooling market, including iPaaS and embedded-iPaaS platforms, workflow automation tools, unified API providers, ETL and reverse-ETL data pipelines, and orchestration engines. Integration platforms reduce the cost of connecting disparate SaaS, on-premise, and AI systems by offering pre-built connectors, declarative flow builders, managed authentication, and normalized data models. This collection includes general-purpose iPaaS leaders like Zapier, Make, and Workato, embedded-iPaaS providers like Paragon and Cobalt, unified API platforms like Merge, Apideck, Nango, and StackOne, data integration and ELT platforms like Fivetran, Airbyte, and Stitch, reverse-ETL tools like Hightouch and Census, and workflow orchestration engines like Airflow, Prefect, Dagster, and Kestra.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
 - Integration
 - iPaaS
