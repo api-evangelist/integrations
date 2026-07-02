@@ -1,0 +1,31 @@
+related:
+- name: iPaaS
+  url: https://ipaas.apievangelist.com
+  icon: https://ipaas.apievangelist.com/icon.png
+  description: This is the index of iPaaS (integration platform as a service) repos being tracked by the
+    API Evangelist network.
+- name: Embedded iPaaS
+  url: https://embedded-ipaas.apievangelist.com
+  icon: https://embedded-ipaas.apievangelist.com/icon.png
+  description: This is the index of embedded iPaaS service and tooling repos being tracked by the API
+    Evangelist network.
+- name: Unified APIs
+  url: https://unified-apis.apievangelist.com
+  icon: https://unified-apis.apievangelist.com/icon.png
+  description: This is the index of unified API service and tooling repos being tracked by the API Evangelist
+    network. Unified APIs (also called integration hubs, API aggregators, or universal…
+- name: Workflow Automation
+  url: https://workflow-automation.apievangelist.com
+  icon: https://workflow-automation.apievangelist.com/icon.png
+  description: This is the index of workflow automation service and tooling repos being tracked by the
+    API Evangelist network.
+- name: AI Automation
+  url: https://ai-automation.apievangelist.com
+  icon: https://ai-automation.apievangelist.com/icon.png
+  description: AI automation combines artificial intelligence with workflow and process automation to
+    create intelligent, autonomous systems including AI agent frameworks, autonomous coding…
+- name: Orchestration
+  url: https://orchestration.apievangelist.com
+  icon: https://orchestration.apievangelist.com/icon.png
+  description: An index and topic collection covering container orchestration and workflow orchestration
+    platforms. Container orchestration platforms like Kubernetes, OpenShift, Amazon EKS,…
