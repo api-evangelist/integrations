@@ -1,7 +1,7 @@
 ---
-title: 'Arazzo Lands on APIs.io: 4,540 API Workflows, Provider and Cross-Provider'
-link: https://apis.io/2026/06/04/arazzo-workflows-on-apis-io/
-published: '2026-06-04'
+title: 'Media and Entertainment on APIs.io: The Content Pipeline'
+link: https://apis.io/2026/07/02/media-and-entertainment-on-apis-io/
+published: '2026-07-02'
 provider: apis-io
 repo: https://github.com/api-evangelist/apis-io
 domain: apis.io
