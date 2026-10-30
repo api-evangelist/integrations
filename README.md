@@ -1,154 +1,97 @@
-# Integrations (integrations)
+# Integrations
+
+<!-- API-EVANGELIST-PROVENANCE:BEGIN -->
+> ### About this repository
+>
+> **This is not our API.** This repository is an independent, third-party profile of a company's
+> **publicly available** API surface, maintained by [API Evangelist](https://apievangelist.com).
+> API Evangelist does not operate, host, resell, or support this company's APIs, and is not
+> affiliated with or endorsed by the company unless stated on the profile.
+>
+> **Where the information came from.** Everything here is assembled from material a member of the
+> public can reach with a browser and no credentials — the company's own website, developer portal
+> and documentation, the specifications it publishes for public use (OpenAPI, AsyncAPI, JSON Schema,
+> `apis.json`, `llms.txt` and similar), its public repositories, and its public status, pricing and
+> changelog pages. **Nothing here is obtained by breaching a system, defeating an access control, or
+> using credentials of any kind.**
+>
+> **The rating is an independent assessment.** The Kin Score and Agent Readiness rating are
+> independently calculated scores of a company's *public* API artifacts, produced by API Evangelist
+> against a published rubric. They are not certifications, endorsements, security assessments, or
+> audits, and they score published artifacts — not the quality, safety, or security of the software.
+>
+> **Corrections, re-scores, and removal are free.** No partnership, contract, or purchase is
+> required, and you do not need to justify the request.
+>
+> - **Something wrong?** Open an issue on this repository, or email
+>   [info@apievangelist.com](mailto:info@apievangelist.com).
+> - **Published something new?** Ask for a re-score and we will re-run the rating.
+> - **Want the listing taken down?** Say so and we will honor it. The profile is reduced to your
+>   company name, a factual description, and a link to your own site, and the company is recorded as
+>   **unrated** — never scored zero for having asked.
+>
+> **Response times.** Acknowledgement within **one business day**; removal or restriction within
+> **two business days**; corrections and re-scores within **five business days**.
+>
+> **Not from the company, and here with a question?** You are welcome here — we would rather be the
+> front line and point you the right way than have a good report go nowhere. What this repository
+> can answer is narrow, though, so it is worth knowing who you are actually looking for:
+>
+> - **A question about how the API works, an account, billing, or a bug in the service** — that is
+>   the company's own support, not us. We profile this API; we do not operate it and cannot see
+>   your account.
+> - **A bug in an open-source project we only catalog** — file it on that project's own repository.
+>   This has happened with a real and correct bug report that reached us instead of the people who
+>   could fix it, which helped nobody.
+> - **Anything about this listing itself** — the description, the tags, the rating, a missing or
+>   wrong artifact — is ours. Open an issue here.
+> - **Not sure, or something general about API Evangelist or APIs.io** — open an issue on the
+>   [APIs.io Inbox](https://github.com/api-search/inbox) and we will route it.
+>
+> **This repository contains no software, and we will never ask you to download anything.** There is
+> no build, release, installer, or binary here — only text and machine-readable API descriptions, so
+> there is nothing here that can be "corrupt" or need "repairing". Any issue, comment, or email
+> claiming otherwise and offering a download link is not from us and is hostile. Do not follow the
+> link; it is a lure. Report it to GitHub and, if you like, tell us at
+> [info@apievangelist.com](mailto:info@apievangelist.com) so we can take it down.
+>
+> **On a security or compliance team?** Email
+> [info@apievangelist.com](mailto:info@apievangelist.com) with *security* in the subject line and
+> you will get a person, not a form. We will tell you exactly which public URLs this profile was
+> built from so your team can see the same surface we did, and we will take the listing down on
+> request while you work through it.
+>
+> Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
+<!-- API-EVANGELIST-PROVENANCE:END -->
+
 An index and topic collection covering the broad integration tooling market, including iPaaS and embedded-iPaaS platforms, workflow automation tools, unified API providers, ETL and reverse-ETL data pipelines, and orchestration engines. Integration platforms reduce the cost of connecting disparate SaaS, on-premise, and AI systems by offering pre-built connectors, declarative flow builders, managed authentication, and normalized data models. This collection includes general-purpose iPaaS leaders like Zapier, Make, and Workato, embedded-iPaaS providers like Paragon and Cobalt, unified API platforms like Merge, Apideck, Nango, and StackOne, data integration and ELT platforms like Fivetran, Airbyte, and Stitch, reverse-ETL tools like Hightouch and Census, and workflow orchestration engines like Airflow, Prefect, Dagster, and Kestra.
 
-**URL:** [https://apievangelist.com](https://apievangelist.com)
+**Areas:** Integration · iPaaS · Embedded iPaaS · Workflow Automation · Data Integration · Unified API · ETL · Reverse ETL · Data Pipeline · Orchestration
 
-## Tags:
+## Integrations on APIs.io
 
- - Integration, iPaaS, Embedded iPaaS, Workflow Automation, Data Integration, Unified API, ETL, Reverse ETL, Data Pipeline, Orchestration
+Everything profiled for Integrations is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/integrations/](https://apis.io/providers/integrations/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+## Where to find this API
 
-- **Created:** 2026-05-19
-- **Modified:** 2026-05-19
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Common Properties
+- [GitHub](https://github.com/api-evangelist)
 
-- [Portal](https://apievangelist.com)
-- [GitHubOrganization](https://github.com/api-evangelist)
-- [JSONSchema - Connection Schema](https://raw.githubusercontent.com/api-evangelist/integrations/refs/heads/main/json-schema/integrations-connection-schema.json)
-- [JSONSchema - Integration Flow Schema](https://raw.githubusercontent.com/api-evangelist/integrations/refs/heads/main/json-schema/integrations-integration-flow-schema.json)
-- [JSON-LD](https://raw.githubusercontent.com/api-evangelist/integrations/refs/heads/main/json-ld/integrations-context.jsonld)
-- [Vocabulary](https://raw.githubusercontent.com/api-evangelist/integrations/refs/heads/main/vocabulary/integrations-vocabulary.yaml)
+## API Evangelist rating
 
-## Features
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Name | Description |
-|------|-------------|
-| Pre-Built Connector Libraries | Integration platforms ship hundreds to thousands of pre-built connectors so engineering teams can wire up SaaS systems without authoring custom HTTP clients for each provider. |
-| Visual Workflow Builders | iPaaS and workflow automation tools like Zapier, Make, and n8n expose drag-and-drop or node-based canvases that let non-developers compose multi-step automations across APIs. |
-| Embedded Integration Marketplaces | Embedded-iPaaS vendors like Paragon, Cobalt, and Integration.app give SaaS companies a white-labeled integration marketplace they can ship inside their own product. |
-| Unified API Normalization | Unified API providers like Merge, Apideck, Nango, and StackOne collapse dozens of category-specific APIs (HRIS, CRM, ATS, accounting) into a single normalized schema and auth surface. |
-| Managed ETL and ELT Pipelines | Data integration platforms like Fivetran, Airbyte, and Stitch land data from SaaS sources and databases into cloud warehouses on managed schedules with schema evolution handling. |
-| Reverse ETL and Operational Sync | Reverse-ETL tools like Hightouch, Census, and Polytomic push warehouse-modeled data back out to SaaS systems of action so sales, marketing, and support teams can act on it. |
-| Workflow Orchestration and Scheduling | Orchestration engines like Apache Airflow, Prefect, Dagster, and Kestra schedule, retry, and observe data and integration pipelines as declarative DAGs. |
-| Managed Authentication and Connection Storage | Integration platforms handle OAuth dance, token refresh, secret rotation, and per-tenant connection storage so consuming applications never have to manage credentials directly. |
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-## Use Cases
+## How this profile is made
 
-| Name | Description |
-|------|-------------|
-| SaaS Product Integration Marketplace | SaaS vendors use embedded iPaaS like Paragon, Cobalt, or Integration.app to ship an in-product "Integrations" tab that lets customers connect to Salesforce, HubSpot, Slack, and Google Workspace. |
-| Unified HRIS and ATS Sync | ATS and HR-tech vendors use unified APIs like Merge, Kombo, or Knit to onboard customers running BambooHR, Workday, ADP, and Greenhouse against a single normalized employee model. |
-| SaaS-to-Warehouse Data Replication | Analytics teams use Fivetran, Airbyte, or Stitch to land Stripe, Salesforce, HubSpot, NetSuite, and PostgreSQL data into Snowflake, BigQuery, or Redshift on managed schedules. |
-| Reverse ETL for Customer 360 | Data teams use Hightouch, Census, or Polytomic to push warehouse-modeled customer segments back into Salesforce, HubSpot, Braze, and Intercom for go-to-market teams. |
-| Citizen-Developer Workflow Automation | Operations and revenue-ops teams use Zapier, Make, n8n, or Pabbly Connect to glue together calendars, forms, CRMs, and Slack channels without writing code. |
-| Event-Driven Internal Pipelines | Platform teams use n8n, Pipedream, Trigger.dev, Prefect, or Dagster to orchestrate event-driven internal workflows that span webhooks, queues, databases, and AI calls. |
-| Enterprise Application Integration | Large enterprises use Boomi, MuleSoft, Informatica, SnapLogic, and TIBCO to connect ERP, CRM, on-premise databases, and message buses with governance and SLAs. |
-| AI Agent Tool and Action Integration | AI-application teams use integration platforms and unified APIs to expose hundreds of SaaS actions as governed tools that agents can invoke with managed credentials. |
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Integrations
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Integrations: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-| Name | Description |
-|------|-------------|
-| Zapier | General-purpose workflow automation platform with 7,000+ connected apps and a no-code trigger/action builder used by millions of small businesses. |
-| Make | Visual scenario builder (formerly Integromat) for multi-step, branching automations with strong data-transformation primitives. |
-| Workato | Enterprise iPaaS and intelligent automation platform with strong recipes-as-code model and embedded offering. |
-| n8n | Source-available, self-hostable workflow automation tool with code nodes and an open node ecosystem. |
-| MuleSoft | Salesforce-owned enterprise iPaaS and API management platform built around the Anypoint Platform and DataWeave. |
-| Merge | Unified API for HRIS, ATS, CRM, ticketing, accounting, and file-storage integrations across 200+ providers. |
-| Paragon | Embedded iPaaS that ships an in-product integration marketplace and workflow builder for SaaS vendors. |
-| Fivetran | Managed ELT platform that lands data from 500+ SaaS sources and databases into cloud warehouses with schema evolution. |
-| Airbyte | Open-source ELT platform with a community connector marketplace and a managed cloud offering. |
-| Hightouch | Reverse-ETL platform that syncs modeled warehouse data into SaaS systems of action across sales, marketing, and support. |
-| Apache Airflow | Widely deployed open-source workflow orchestrator that defines pipelines as Python DAGs with rich scheduling and retry semantics. |
-| Nango | Open-source unified API and managed authentication layer for OAuth integrations across 400+ apps. |
+## Open an issue
 
-## Artifacts
-
-Machine-readable API specifications organized by format.
-
-### JSON Schema
-
-- [Connection Schema](json-schema/integrations-connection-schema.json)
-- [Integration Flow Schema](json-schema/integrations-integration-flow-schema.json)
-
-### JSON Structure
-
-- [Connection Structure](json-structure/integrations-connection-structure.json)
-- [Integration Flow Structure](json-structure/integrations-integration-flow-structure.json)
-
-### JSON-LD
-
-- [Integrations Context](json-ld/integrations-context.jsonld)
-
-## Vocabulary
-
-- [Integrations Vocabulary](vocabulary/integrations-vocabulary.yaml) — Unified taxonomy spanning connections, flows, sync jobs, and field mappings across iPaaS, embedded iPaaS, unified APIs, ETL, reverse ETL, and orchestration platforms
-
-## Network
-
-This index references the following integration platform repositories:
-
-- [Airbyte](https://github.com/api-evangelist/airbyte)
-- [Albato](https://github.com/api-evangelist/albato)
-- [Apache Airflow](https://github.com/api-evangelist/airflow)
-- [Apache NiFi](https://github.com/api-evangelist/apache-nifi)
-- [Apideck](https://github.com/api-evangelist/apideck)
-- [Appmixer](https://github.com/api-evangelist/appmixer)
-- [Automatisch](https://github.com/api-evangelist/automatisch)
-- [Bardeen](https://github.com/api-evangelist/bardeen)
-- [Boomi](https://github.com/api-evangelist/boomi)
-- [Celigo](https://github.com/api-evangelist/celigo)
-- [Census](https://github.com/api-evangelist/census)
-- [Cobalt](https://github.com/api-evangelist/cobalt)
-- [Cyclr](https://github.com/api-evangelist/cyclr)
-- [Dagster](https://github.com/api-evangelist/dagster)
-- [Elastic.io](https://github.com/api-evangelist/elastic-io)
-- [Fivetran](https://github.com/api-evangelist/fivetran)
-- [Frends](https://github.com/api-evangelist/frends)
-- [Hightouch](https://github.com/api-evangelist/hightouch)
-- [Hotglue](https://github.com/api-evangelist/hotglue)
-- [Huginn](https://github.com/api-evangelist/huginn)
-- [IFTTT](https://github.com/api-evangelist/ifttt)
-- [Informatica](https://github.com/api-evangelist/informatica)
-- [Integrately](https://github.com/api-evangelist/integrately)
-- [Integration.app](https://github.com/api-evangelist/integration-app)
-- [Jitterbit](https://github.com/api-evangelist/jitterbit)
-- [Kestra](https://github.com/api-evangelist/kestra)
-- [Knit](https://github.com/api-evangelist/knit)
-- [Kombo](https://github.com/api-evangelist/kombo)
-- [Latenode](https://github.com/api-evangelist/latenode)
-- [Locoia](https://github.com/api-evangelist/locoia)
-- [Make](https://github.com/api-evangelist/make)
-- [Merge](https://github.com/api-evangelist/merge)
-- [MuleSoft](https://github.com/api-evangelist/mulesoft)
-- [n8n](https://github.com/api-evangelist/n8n)
-- [Nango](https://github.com/api-evangelist/nango)
-- [Node-RED](https://github.com/api-evangelist/node-red)
-- [Pabbly Connect](https://github.com/api-evangelist/pabbly-connect)
-- [Panora](https://github.com/api-evangelist/panora)
-- [Paragon](https://github.com/api-evangelist/paragon)
-- [Pipedream](https://github.com/api-evangelist/pipedream)
-- [Polytomic](https://github.com/api-evangelist/polytomic)
-- [Prefect](https://github.com/api-evangelist/prefect)
-- [Revert](https://github.com/api-evangelist/revert)
-- [RudderStack](https://github.com/api-evangelist/rudderstack)
-- [SnapLogic](https://github.com/api-evangelist/snaplogic)
-- [StackOne](https://github.com/api-evangelist/stackone)
-- [Stitch](https://github.com/api-evangelist/stitch)
-- [Talend](https://github.com/api-evangelist/talend)
-- [TIBCO](https://github.com/api-evangelist/tibco)
-- [Tray.io](https://github.com/api-evangelist/tray-io)
-- [Trigger.dev](https://github.com/api-evangelist/trigger-dev)
-- [Truto](https://github.com/api-evangelist/truto)
-- [Unified.to](https://github.com/api-evangelist/unified-to)
-- [Vessel](https://github.com/api-evangelist/vessel)
-- [Workato](https://github.com/api-evangelist/workato)
-- [Zapier](https://github.com/api-evangelist/zapier)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/integrations/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
